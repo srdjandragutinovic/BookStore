@@ -5,20 +5,20 @@ const multer = require('multer');
 const upload = multer({ dest: 'uploads/' });
 const fs = require('fs');
 const path = require('path');
-const { cache, cacheMiddleware } = require('../middleware/cache'); // Import cache middleware
+const { cache, cacheMiddleware } = require('../middleware/cache'); // import cache middleware
 //all requirements
 //added express router db first
 //added multer/upload
 //added fs path since it's not working with batch import/not reading
 
-// GET request for all books (with caching)
+// GET req - all books + cache
 router.get('/', cacheMiddleware, (req, res) => {
   db.all("SELECT * FROM books", (err, rows) => {
     if (err) {
       res.status(500).json({ error: err.message });
       return;
     }
-    // Cache the result
+    // cache part
     cache.set(req.originalUrl, rows);
     res.json(rows);
   });
@@ -26,7 +26,7 @@ router.get('/', cacheMiddleware, (req, res) => {
 
 //tbd GET request for single book by ID
 
-// GET request for single book by ID (with caching)
+// GET request single book + cache
 router.get('/:id', cacheMiddleware, (req, res) => {
   const { id } = req.params;
 
@@ -37,7 +37,7 @@ router.get('/:id', cacheMiddleware, (req, res) => {
     if (!row) {
       return res.status(404).json({ error: 'Book not found' });
     }
-    // Cache the result
+    // cache part
     cache.set(req.originalUrl, row);
     res.json(row);
   });
@@ -47,12 +47,12 @@ router.get('/:id', cacheMiddleware, (req, res) => {
 router.post('/', (req, res) => {
   const { title, author, year, genre } = req.body;
 
-  // Validate required fields
+  // check fields
   if (!title || !author || !year || !genre) {
     return res.status(400).json({ error: 'All fields are required' });
   }
 
-  // Insert into the database
+  // db insert
   db.run(
     "INSERT INTO books (title, author, year, genre) VALUES (?, ?, ?, ?)",
     [title, author, year, genre],
@@ -60,7 +60,7 @@ router.post('/', (req, res) => {
       if (err) {
         return res.status(500).json({ error: err.message });
       }
-      // Clear the cache for all books
+      // cache clear
       cache.clear();
       res.status(201).json({ id: this.lastID });
     }
@@ -68,17 +68,16 @@ router.post('/', (req, res) => {
 });
 
 // PUT update by selected id in the url
-// PUT update by selected id in the URL
 router.put('/:id', (req, res) => {
   const { id } = req.params;
   const { title, author, year, genre } = req.body;
 
-  // Validate required fields
+  // check input
   if (!title || !author || !year || !genre) {
     return res.status(400).json({ error: 'All fields are required' });
   }
 
-  // Update in the database
+  // db update
   db.run(
     "UPDATE books SET title = ?, author = ?, year = ?, genre = ? WHERE id = ?",
     [title, author, year, genre, id],
@@ -89,7 +88,7 @@ router.put('/:id', (req, res) => {
       if (this.changes === 0) {
         return res.status(404).json({ error: 'Book not found' });
       }
-      // Clear the cache for all books
+      // cache clear
       cache.clear();
       res.json({ message: 'Book updated successfully' });
     }
@@ -104,16 +103,16 @@ router.post('/import', upload.single('file'), (req, res) => {
     return res.status(400).json({ error: 'No file uploaded' });
   }
 
-  // File path
+  // pathing issue i had
   const filePath = path.join(__dirname, '..', file.path);
 
-  // Read the file
+  // read the file
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to read the file' });
     }
 
-    // Parse the JSON data
+    // rarse the JSON data - if unsure use online json formatter to check
     let books;
     try {
       books = JSON.parse(data);
@@ -121,25 +120,25 @@ router.post('/import', upload.single('file'), (req, res) => {
       return res.status(400).json({ error: 'Invalid JSON format' });
     }
 
-    // Check if the data is an array
+    // check if the data is an array
     if (!Array.isArray(books)) {
       return res.status(400).json({ error: 'Invalid JSON format: Expected an array of books' });
     }
 
-    // Insert the books into the database
+    // add to db
     const insertQuery = `
       INSERT INTO books (title, author, year, genre)
       VALUES (?, ?, ?, ?)
     `;
 
-    // Use a transaction for error handling
+    // use a transaction for error handling - refer to recommendation
     db.serialize(() => {
       db.run('BEGIN TRANSACTION');
 
       books.forEach((book) => {
         db.run(insertQuery, [book.title, book.author, book.year, book.genre], (err) => {
           if (err) {
-            db.run('ROLLBACK'); // Rollback the transaction if there's an error
+            db.run('ROLLBACK'); // rollback the transaction if there's an error
             return res.status(500).json({ error: err.message });
           }
         });
@@ -149,7 +148,7 @@ router.post('/import', upload.single('file'), (req, res) => {
         if (err) {
           return res.status(500).json({ error: err.message });
         }
-        // Clear the cache for all books
+        // clear cache
         cache.clear();
         res.json({ message: 'Books imported successfully' });
       });
@@ -163,7 +162,7 @@ router.post('/import', upload.single('file'), (req, res) => {
 router.delete('/:id', (req, res) => {
   const { id } = req.params;
 
-  // Delete from the database
+  // delete from the database
   db.run("DELETE FROM books WHERE id = ?", [id], function (err) {
     if (err) {
       return res.status(500).json({ error: err.message });
@@ -171,35 +170,36 @@ router.delete('/:id', (req, res) => {
     if (this.changes === 0) {
       return res.status(404).json({ error: 'Book not found' });
     }
-    // Clear the cache for all books
+    // cache clear
     cache.clear();
     res.json({ message: 'Book deleted successfully' });
   });
 });
 
-// GET /books/recommendations/:genre – Returns a list of books in the given genre (with caching)
+// GET /books/recommendations/:genre – list of books + cache
 router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
   const { genre } = req.params;
 
-  // Query the database for books in the specified genre
+  // db call for genre
   const query = "SELECT * FROM books WHERE genre = ?";
   db.all(query, [genre], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });
     }
 
-    // If no books are found, return a 404 error
+    // 404 if none
     if (rows.length === 0) {
       return res.status(404).json({ error: 'No books found in this genre' });
     }
 
-    // Cache the result
+    // cache
     cache.set(req.originalUrl, rows);
     res.json(rows);
   });
 });
 
 // add other requests, don't forget to change the PUT request to have 5 fields for database element
-// ...
+// fixed 16/02/2025 19:24
+// backend part fully functionall with all requests/log/cache/gitignore
 
 module.exports = router;
