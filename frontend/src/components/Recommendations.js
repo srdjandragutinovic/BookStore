@@ -1,4 +1,3 @@
-// src/components/Recommendations.js
 import React, { useState } from 'react';
 
 const Recommendations = () => {
@@ -18,17 +17,24 @@ const Recommendations = () => {
       const data = await response.json();
       console.log('API Response:', data); // Log the response
 
-      if (Array.isArray(data.books)) {
-        setBooks(data.books);
-        setError(data.message); // Display the message from the backend
+      if (!response.ok) {
+        // Handle server errors (e.g., 404 or 500)
+        throw new Error(data.error || 'Failed to fetch recommendations');
+      }
+
+      if (Array.isArray(data)) {
+        // Backend returns an array of books directly
+        setBooks(data);
+        setError(''); // Clear any previous errors
       } else {
-        setBooks([]); // Set to empty array if data.books is not an array
+        // Handle unexpected response format
+        setBooks([]);
         setError('Unexpected response from the server');
       }
     } catch (error) {
       console.error('Error fetching recommendations:', error);
       setBooks([]); // Set to empty array on error
-      setError('Failed to fetch recommendations');
+      setError(error.message || 'Failed to fetch recommendations');
     }
   };
 
