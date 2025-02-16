@@ -11,16 +11,44 @@ const { cache, cacheMiddleware } = require('../middleware/cache'); // import cac
 //added multer/upload
 //added fs path since it's not working with batch import/not reading
 
-// GET req - all books + cache
 router.get('/', cacheMiddleware, (req, res) => {
-  db.all("SELECT * FROM books", (err, rows) => {
+  const { page = 1, limit = 10 } = req.query;
+  const offset = (page - 1) * limit;
+
+  const cacheKey = req.originalUrl;
+
+  if (cache.has(cacheKey)) {
+    console.log('Serving from cache');
+    return res.json(cache.get(cacheKey));
+  }
+
+  const query = "SELECT * FROM books LIMIT ? OFFSET ?";
+  db.all(query, [limit, offset], (err, rows) => {
     if (err) {
-      res.status(500).json({ error: err.message });
-      return;
+      return res.status(500).json({ error: err.message });
     }
-    // cache part
-    cache.set(req.originalUrl, rows);
-    res.json(rows);
+
+    db.get("SELECT COUNT(*) AS total FROM books", (err, countResult) => {
+      if (err) {
+        return res.status(500).json({ error: err.message });
+      }
+
+      const totalBooks = countResult.total;
+      const totalPages = Math.ceil(totalBooks / limit);
+
+      const response = {
+        books: rows || [], // Ensure books is always an array
+        pagination: {
+          page: parseInt(page),
+          limit: parseInt(limit),
+          totalBooks,
+          totalPages,
+        },
+      };
+
+      cache.set(cacheKey, response);
+      res.json(response);
+    });
   });
 });
 
@@ -180,21 +208,44 @@ router.delete('/:id', (req, res) => {
 router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
   const { genre } = req.params;
 
-  // db call for genre
+  // Check if genre is empty or invalid
+  if (!genre || genre.trim() === '') {
+    return res.status(400).json({ error: 'Genre is required' }); // Return 400 for empty genre
+  }
+
+  // Create a unique cache key based on the request URL
+  const cacheKey = req.originalUrl;
+
+  // Check if the data is already in the cache
+  if (cache.has(cacheKey)) {
+    console.log('Serving from cache');
+    return res.json(cache.get(cacheKey));
+  }
+
+  // Query the database for books in the specified genre
   const query = "SELECT * FROM books WHERE genre = ?";
   db.all(query, [genre], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });
     }
 
-    // 404 if none
+    // If no books are found, return an empty array with a message
     if (rows.length === 0) {
-      return res.status(404).json({ error: 'No books found in this genre' });
+      const response = {
+        books: [], // Return an empty array
+        message: 'No books found in this genre',
+      };
+      cache.set(cacheKey, response); // Cache the response
+      return res.json(response);
     }
 
-    // cache
-    cache.set(req.originalUrl, rows);
-    res.json(rows);
+    // Cache and return the list of books
+    const response = {
+      books: rows,
+      message: 'Books found',
+    };
+    cache.set(cacheKey, response); // Cache the response
+    res.json(response);
   });
 });
 
