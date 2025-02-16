@@ -37,6 +37,55 @@ router.get('/:id', (req, res) => {
   });
 });
 
+// POST - add a single book
+router.post('/', (req, res) => {
+  const { title, author, year, genre } = req.body;
+
+  // Validate required fields
+  if (!title || !author || !year || !genre) {
+    return res.status(400).json({ error: 'All fields are required' });
+  }
+
+  // part where insert to db
+  db.run(
+    "INSERT INTO books (title, author, year, genre) VALUES (?, ?, ?, ?)",
+    [title, author, year, genre],
+    function (err) {
+      if (err) {
+        return res.status(500).json({ error: err.message });
+      }
+      res.status(201).json({ id: this.lastID });
+    }
+  );
+});
+
+// PUT update by selected id in the url
+router.put('/:id', (req, res) => {
+  const { id } = req.params;
+  const { title, author, year, genre } = req.body;
+
+  // Validate required fields
+  if (!title || !author || !year || !genre) {
+    return res.status(400).json({ error: 'All fields are required' });
+  }
+
+  // update in db
+  db.run(
+    "UPDATE books SET title = ?, author = ?, year = ?, genre = ? WHERE id = ?",
+    [title, author, year, genre, id],
+    function (err) {
+      if (err) {
+        return res.status(500).json({ error: err.message });
+      }
+      if (this.changes === 0) {
+        return res.status(404).json({ error: 'Book not found' });
+      }
+      res.json({ message: 'Book updated successfully' });
+    }
+  );
+});
+
+
 // POST /books/import - batch upload for all books via JSON file
 router.post('/import', upload.single('file'), (req, res) => {
   const file = req.file;
@@ -92,6 +141,24 @@ router.post('/import', upload.single('file'), (req, res) => {
         res.json({ message: 'Books imported successfully' });
       });
     });
+  });
+});
+
+
+
+// delete by id in url
+router.delete('/:id', (req, res) => {
+  const { id } = req.params;
+
+  // delete from db
+  db.run("DELETE FROM books WHERE id = ?", [id], function (err) {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+    if (this.changes === 0) {
+      return res.status(404).json({ error: 'Book not found' });
+    }
+    res.json({ message: 'Book deleted successfully' });
   });
 });
 
