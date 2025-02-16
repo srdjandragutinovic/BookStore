@@ -1,4 +1,3 @@
-// src/components/BookList.js
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
@@ -15,6 +14,35 @@ const BookList = () => {
 
   useEffect(() => {
     fetchBooks();
+
+    // Connect to WebSocket server
+    const ws = new WebSocket('ws://localhost:5000');
+
+    ws.onopen = () => {
+      console.log('WebSocket connection established');
+    };
+
+    ws.onmessage = (event) => {
+      const data = JSON.parse(event.data);
+      console.log('WebSocket message received:', data);
+
+      if (data.type === 'bookAdded') {
+        // Add the new book to the list
+        setBooks((prevBooks) => [...prevBooks, data.book]);
+      } else if (data.type === 'bookDeleted') {
+        // Remove the deleted book from the list
+        setBooks((prevBooks) => prevBooks.filter((book) => book.id !== data.id));
+      }
+    };
+
+    ws.onclose = () => {
+      console.log('WebSocket connection closed');
+    };
+
+    // Cleanup WebSocket connection on component unmount
+    return () => {
+      ws.close();
+    };
   }, [pagination.page, pagination.limit]);
 
   const fetchBooks = async () => {
@@ -22,7 +50,7 @@ const BookList = () => {
     try {
       const response = await fetch(`http://localhost:5000/books?page=${page}&limit=${limit}`);
       const data = await response.json();
-      console.log('API Response:', data); // Log the response
+      console.log('API Response:', data);
 
       if (Array.isArray(data.books)) {
         setBooks(data.books);
@@ -31,28 +59,28 @@ const BookList = () => {
           totalBooks: data.pagination.totalBooks,
           totalPages: data.pagination.totalPages,
         }));
-        setError(''); // Clear any previous error
+        setError('');
       } else if (data.error) {
-        setBooks([]); // Set to empty array
-        setError(data.error); // Display error message
+        setBooks([]);
+        setError(data.error);
       } else {
-        setBooks([]); // Set to empty array
+        setBooks([]);
         setError('Unexpected response from the server');
       }
     } catch (error) {
       console.error('Error fetching books:', error);
-      setBooks([]); // Set to empty array on error
+      setBooks([]);
       setError('Failed to fetch books');
     }
   };
 
   const handleDelete = async (id) => {
     await fetch(`http://localhost:5000/books/${id}`, { method: 'DELETE' });
-    fetchBooks(); // Refresh the list after deletion
+    // No need to call fetchBooks() here, as WebSocket will handle the update
   };
 
   const handleEdit = (id) => {
-    navigate(`/edit/${id}`); // Navigate to EditBook with the book ID
+    navigate(`/edit/${id}`);
   };
 
   const handlePageChange = (newPage) => {
@@ -78,7 +106,6 @@ const BookList = () => {
         ))}
       </ul>
 
-      {/* Pagination Controls */}
       <div className="pagination">
         <button
           onClick={() => handlePageChange(pagination.page - 1)}

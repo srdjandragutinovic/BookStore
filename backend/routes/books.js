@@ -5,12 +5,9 @@ const multer = require('multer');
 const upload = multer({ dest: 'uploads/' });
 const fs = require('fs');
 const path = require('path');
-const { cache, cacheMiddleware } = require('../middleware/cache'); // import cache middleware
-//all requirements
-//added express router db first
-//added multer/upload
-//added fs path since it's not working with batch import/not reading
+const { cache, cacheMiddleware } = require('../middleware/cache');
 
+// GET all books with pagination
 router.get('/', cacheMiddleware, (req, res) => {
   const { page = 1, limit = 10 } = req.query;
   const offset = (page - 1) * limit;
@@ -52,9 +49,7 @@ router.get('/', cacheMiddleware, (req, res) => {
   });
 });
 
-//tbd GET request for single book by ID
-
-// GET request single book + cache
+// GET a single book by ID
 router.get('/:id', cacheMiddleware, (req, res) => {
   const { id } = req.params;
 
@@ -65,22 +60,22 @@ router.get('/:id', cacheMiddleware, (req, res) => {
     if (!row) {
       return res.status(404).json({ error: 'Book not found' });
     }
-    // cache part
+    // Cache the result
     cache.set(req.originalUrl, row);
     res.json(row);
   });
 });
 
-// POST - add a single book
+// POST - Add a single book
 router.post('/', (req, res) => {
   const { title, author, year, genre } = req.body;
 
-  // check fields
+  // Validate required fields
   if (!title || !author || !year || !genre) {
     return res.status(400).json({ error: 'All fields are required' });
   }
 
-  // db insert
+  // Insert into the database
   db.run(
     "INSERT INTO books (title, author, year, genre) VALUES (?, ?, ?, ?)",
     [title, author, year, genre],
@@ -88,24 +83,32 @@ router.post('/', (req, res) => {
       if (err) {
         return res.status(500).json({ error: err.message });
       }
-      // cache clear
+      // Clear cache
       cache.clear();
-      res.status(201).json({ id: this.lastID });
+
+      // Create the new book object
+      const newBook = { id: this.lastID, title, author, year, genre };
+
+      // Broadcast the new book to all clients
+      const { wss, broadcastUpdate } = req.app.locals;
+      broadcastUpdate(wss, { type: 'bookAdded', book: newBook });
+
+      res.status(201).json(newBook);
     }
   );
 });
 
-// PUT update by selected id in the url
+// PUT - Update a book by ID
 router.put('/:id', (req, res) => {
   const { id } = req.params;
   const { title, author, year, genre } = req.body;
 
-  // check input
+  // Validate required fields
   if (!title || !author || !year || !genre) {
     return res.status(400).json({ error: 'All fields are required' });
   }
 
-  // db update
+  // Update the database
   db.run(
     "UPDATE books SET title = ?, author = ?, year = ?, genre = ? WHERE id = ?",
     [title, author, year, genre, id],
@@ -116,31 +119,35 @@ router.put('/:id', (req, res) => {
       if (this.changes === 0) {
         return res.status(404).json({ error: 'Book not found' });
       }
-      // cache clear
+      // Clear cache
       cache.clear();
+
+      // Broadcast the updated book to all clients
+      const { wss, broadcastUpdate } = req.app.locals;
+      broadcastUpdate(wss, { type: 'bookUpdated', book: { id, title, author, year, genre } });
+
       res.json({ message: 'Book updated successfully' });
     }
   );
 });
 
-
-// POST /books/import - batch upload for all books via JSON file
+// POST - Batch import books from a JSON file
 router.post('/import', upload.single('file'), (req, res) => {
   const file = req.file;
   if (!file) {
     return res.status(400).json({ error: 'No file uploaded' });
   }
 
-  // pathing issue i had
+  // Resolve the file path
   const filePath = path.join(__dirname, '..', file.path);
 
-  // read the file
+  // Read the file
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to read the file' });
     }
 
-    // rarse the JSON data - if unsure use online json formatter to check
+    // Parse the JSON data
     let books;
     try {
       books = JSON.parse(data);
@@ -148,25 +155,25 @@ router.post('/import', upload.single('file'), (req, res) => {
       return res.status(400).json({ error: 'Invalid JSON format' });
     }
 
-    // check if the data is an array
+    // Validate that the data is an array
     if (!Array.isArray(books)) {
       return res.status(400).json({ error: 'Invalid JSON format: Expected an array of books' });
     }
 
-    // add to db
+    // Insert books into the database
     const insertQuery = `
       INSERT INTO books (title, author, year, genre)
       VALUES (?, ?, ?, ?)
     `;
 
-    // use a transaction for error handling - refer to recommendation
+    // Use a transaction for error handling
     db.serialize(() => {
       db.run('BEGIN TRANSACTION');
 
       books.forEach((book) => {
         db.run(insertQuery, [book.title, book.author, book.year, book.genre], (err) => {
           if (err) {
-            db.run('ROLLBACK'); // rollback the transaction if there's an error
+            db.run('ROLLBACK'); // Rollback the transaction if there's an error
             return res.status(500).json({ error: err.message });
           }
         });
@@ -176,21 +183,24 @@ router.post('/import', upload.single('file'), (req, res) => {
         if (err) {
           return res.status(500).json({ error: err.message });
         }
-        // clear cache
+        // Clear cache
         cache.clear();
+
+        // Broadcast the imported books to all clients
+        const { wss, broadcastUpdate } = req.app.locals;
+        broadcastUpdate(wss, { type: 'booksImported', books });
+
         res.json({ message: 'Books imported successfully' });
       });
     });
   });
 });
 
-
-
-// DELETE by ID in the URL
+// DELETE - Remove a book by ID
 router.delete('/:id', (req, res) => {
   const { id } = req.params;
 
-  // delete from the database
+  // Delete from the database
   db.run("DELETE FROM books WHERE id = ?", [id], function (err) {
     if (err) {
       return res.status(500).json({ error: err.message });
@@ -198,29 +208,20 @@ router.delete('/:id', (req, res) => {
     if (this.changes === 0) {
       return res.status(404).json({ error: 'Book not found' });
     }
-    // cache clear
+    // Clear cache
     cache.clear();
+
+    // Broadcast the deleted book ID to all clients
+    const { wss, broadcastUpdate } = req.app.locals;
+    broadcastUpdate(wss, { type: 'bookDeleted', id: parseInt(id) });
+
     res.json({ message: 'Book deleted successfully' });
   });
 });
 
-// GET /books/recommendations/:genre – list of books + cache
+// GET - Recommendations by genre
 router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
   const { genre } = req.params;
-
-  // Check if genre is empty or invalid
-  if (!genre || genre.trim() === '') {
-    return res.status(400).json({ error: 'Genre is required' }); // Return 400 for empty genre
-  }
-
-  // Create a unique cache key based on the request URL
-  const cacheKey = req.originalUrl;
-
-  // Check if the data is already in the cache
-  if (cache.has(cacheKey)) {
-    console.log('Serving from cache');
-    return res.json(cache.get(cacheKey));
-  }
 
   // Query the database for books in the specified genre
   const query = "SELECT * FROM books WHERE genre = ?";
@@ -229,28 +230,15 @@ router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
       return res.status(500).json({ error: err.message });
     }
 
-    // If no books are found, return an empty array with a message
+    // Return 404 if no books are found
     if (rows.length === 0) {
-      const response = {
-        books: [], // Return an empty array
-        message: 'No books found in this genre',
-      };
-      cache.set(cacheKey, response); // Cache the response
-      return res.json(response);
+      return res.status(404).json({ error: 'No books found in this genre' });
     }
 
-    // Cache and return the list of books
-    const response = {
-      books: rows,
-      message: 'Books found',
-    };
-    cache.set(cacheKey, response); // Cache the response
-    res.json(response);
+    // Cache the result
+    cache.set(req.originalUrl, rows);
+    res.json(rows);
   });
 });
-
-// add other requests, don't forget to change the PUT request to have 5 fields for database element
-// fixed 16/02/2025 19:24
-// backend part fully functionall with all requests/log/cache/gitignore
 
 module.exports = router;
