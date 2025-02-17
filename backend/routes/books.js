@@ -49,6 +49,23 @@ router.get('/', cacheMiddleware, (req, res) => {
   });
 });
 
+// GET - Fetch all distinct genres
+router.get('/genres', cacheMiddleware, (req, res) => {
+  const query = "SELECT DISTINCT genre FROM books";
+  db.all(query, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+
+    // Extract genres from the rows
+    const genres = rows.map(row => row.genre);
+
+    // Cache the result
+    cache.set(req.originalUrl, genres);
+    res.json(genres);
+  });
+});
+
 // GET a single book by ID
 router.get('/:id', cacheMiddleware, (req, res) => {
   const { id } = req.params;
@@ -166,32 +183,79 @@ router.post('/import', upload.single('file'), (req, res) => {
       VALUES (?, ?, ?, ?)
     `;
 
+    // Query to check for duplicates
+    const checkDuplicateQuery = `
+      SELECT id FROM books WHERE title = ? AND author = ?
+    `;
+
     // Use a transaction for error handling
     db.serialize(() => {
       db.run('BEGIN TRANSACTION');
 
-      books.forEach((book) => {
-        db.run(insertQuery, [book.title, book.author, book.year, book.genre], (err) => {
+      let booksAdded = 0; // Counter for successfully added books
+      let errors = []; // Array to store errors for individual books
+
+      // Process each book
+      const processBook = (book, callback) => {
+        // Check for duplicates
+        db.get(checkDuplicateQuery, [book.title, book.author], (err, row) => {
           if (err) {
-            db.run('ROLLBACK'); // Rollback the transaction if there's an error
-            return res.status(500).json({ error: err.message });
+            errors.push({ book, error: err.message });
+            return callback();
           }
+
+          // If the book already exists, skip insertion
+          if (row) {
+            console.log(`Skipping duplicate book: ${book.title} by ${book.author}`);
+            return callback();
+          }
+
+          // Insert the book if it's not a duplicate
+          db.run(insertQuery, [book.title, book.author, book.year, book.genre], (err) => {
+            if (err) {
+              errors.push({ book, error: err.message });
+            } else {
+              booksAdded++; // Increment the counter for successfully added books
+            }
+            callback();
+          });
         });
-      });
+      };
 
-      db.run('COMMIT', (err) => {
-        if (err) {
-          return res.status(500).json({ error: err.message });
+      // Process all books sequentially
+      const processAllBooks = (index) => {
+        if (index >= books.length) {
+          // Commit the transaction after processing all books
+          db.run('COMMIT', (err) => {
+            if (err) {
+              return res.status(500).json({ error: err.message });
+            }
+
+            // Clear cache
+            cache.clear();
+
+            // Broadcast the imported books to all clients
+            const { wss, broadcastUpdate } = req.app.locals;
+            broadcastUpdate(wss, { type: 'booksImported', books });
+
+            // Respond with the number of books added and any errors
+            res.json({
+              message: `Books imported successfully. ${booksAdded} books added.`,
+              booksAdded,
+              errors,
+            });
+          });
+          return;
         }
-        // Clear cache
-        cache.clear();
 
-        // Broadcast the imported books to all clients
-        const { wss, broadcastUpdate } = req.app.locals;
-        broadcastUpdate(wss, { type: 'booksImported', books });
+        // Process the current book
+        processBook(books[index], () => {
+          processAllBooks(index + 1); // Process the next book
+        });
+      };
 
-        res.json({ message: 'Books imported successfully' });
-      });
+      // Start processing books
+      processAllBooks(0);
     });
   });
 });
@@ -219,13 +283,15 @@ router.delete('/:id', (req, res) => {
   });
 });
 
-// GET - Recommendations by genre
+// GET - Recommendations by genre with pagination
 router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
   const { genre } = req.params;
+  const { page = 1, limit = 10 } = req.query; // Default: page 1, limit 10
+  const offset = (page - 1) * limit;
 
-  // Query the database for books in the specified genre
-  const query = "SELECT * FROM books WHERE genre = ?";
-  db.all(query, [genre], (err, rows) => {
+  // Query the database for books in the specified genre with pagination
+  const query = "SELECT * FROM books WHERE genre = ? LIMIT ? OFFSET ?";
+  db.all(query, [genre, limit, offset], (err, rows) => {
     if (err) {
       return res.status(500).json({ error: err.message });
     }
@@ -235,10 +301,22 @@ router.get('/recommendations/:genre', cacheMiddleware, (req, res) => {
       return res.status(404).json({ error: 'No books found in this genre' });
     }
 
-    // Cache the result
-    cache.set(req.originalUrl, rows);
-    res.json(rows);
+    // Get the total number of books in the genre
+    db.get("SELECT COUNT(*) AS total FROM books WHERE genre = ?", [genre], (err, countResult) => {
+      if (err) {
+        return res.status(500).json({ error: err.message });
+      }
+
+      const totalBooks = countResult.total;
+      const totalPages = Math.ceil(totalBooks / limit);
+
+      // Cache the result
+      cache.set(req.originalUrl, { books: rows, pagination: { page, limit, totalBooks, totalPages } });
+      res.json({ books: rows, pagination: { page, limit, totalBooks, totalPages } });
+    });
   });
 });
+
+
 
 module.exports = router;

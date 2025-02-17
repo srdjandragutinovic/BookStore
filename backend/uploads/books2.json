@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "title": "Les Mis\u00e9rables Vol 2",
+    "year": 1900,
+    "author": "Ray Bradbury",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 2,
+    "title": "Anna Karenina Vol 10",
+    "year": 1884,
+    "author": "Herman Melville",
+    "genre": "Romance"
+  },
+  {
+    "id": 3,
+    "title": "The Winds of Winter Vol 3",
+    "year": 1990,
+    "author": "James Joyce",
+    "genre": "Crime"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1912,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 5,
+    "title": "Brave New World Vol 9",
+    "year": 2010,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 6,
+    "title": "1984 Vol 1",
+    "year": 1989,
+    "author": "Bernard Cornwell",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 7,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1952,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 8,
+    "title": "Anna Karenina Vol 5",
+    "year": 1929,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 9,
+    "title": "Crime and Punishment Vol 7",
+    "year": 1977,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 10,
+    "title": "Dune Messiah Vol 6",
+    "year": 1900,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 11,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1900,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 12,
+    "title": "Anna Karenina Vol 5",
+    "year": 1885,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 13,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1866,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 14,
+    "title": "1984 Vol 9",
+    "year": 1935,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 15,
+    "title": "Pride and Prejudice Vol 2",
+    "year": 1877,
+    "author": "Frank Herbert",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 16,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1973,
+    "author": "Leo Tolstoy",
+    "genre": "Thriller"
+  },
+  {
+    "id": 17,
+    "title": "Dune Messiah Vol 2",
+    "year": 1851,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 18,
+    "title": "Anna Karenina Vol 5",
+    "year": 1977,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 19,
+    "title": "Fahrenheit 451 Vol 5",
+    "year": 1954,
+    "author": "Bernard Cornwell",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 20,
+    "title": "Anna Karenina Vol 8",
+    "year": 1816,
+    "author": "J.D. Salinger",
+    "genre": "Mystery"
+  },
+  {
+    "id": 21,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1869,
+    "author": "Victor Hugo",
+    "genre": "Crime"
+  },
+  {
+    "id": 22,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1984,
+    "author": "Aldous Huxley",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 23,
+    "title": "Ulysses Vol 8",
+    "year": 1974,
+    "author": "Bernard Cornwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 24,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1906,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 25,
+    "title": "The Brothers Karamazov Vol 4",
+    "year": 1877,
+    "author": "William Gibson",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 26,
+    "title": "War and Peace Vol 1",
+    "year": 1999,
+    "author": "Frank Herbert",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 27,
+    "title": "Fahrenheit 451 Vol 7",
+    "year": 1970,
+    "author": "Ray Bradbury",
+    "genre": "Mystery"
+  },
+  {
+    "id": 28,
+    "title": "Anna Karenina Vol 8",
+    "year": 2013,
+    "author": "George Orwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 29,
+    "title": "Pride and Prejudice Vol 1",
+    "year": 1886,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 30,
+    "title": "The Winds of Winter Vol 3",
+    "year": 1921,
+    "author": "Jane Austen",
+    "genre": "Classic"
+  },
+  {
+    "id": 31,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1832,
+    "author": "Frank Herbert",
+    "genre": "Thriller"
+  },
+  {
+    "id": 32,
+    "title": "Hyperion Vol 5",
+    "year": 1996,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 33,
+    "title": "Ulysses Vol 7",
+    "year": 1971,
+    "author": "Leo Tolstoy",
+    "genre": "Romance"
+  },
+  {
+    "id": 34,
+    "title": "Les Mis\u00e9rables Vol 2",
+    "year": 1893,
+    "author": "Frank Herbert",
+    "genre": "Crime"
+  },
+  {
+    "id": 35,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1914,
+    "author": "Aldous Huxley",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 36,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1855,
+    "author": "William Gibson",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 37,
+    "title": "Pride and Prejudice Vol 10",
+    "year": 1944,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 38,
+    "title": "Anna Karenina Vol 8",
+    "year": 2001,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 39,
+    "title": "The Winds of Winter Vol 4",
+    "year": 2014,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 40,
+    "title": "Moby Dick Vol 6",
+    "year": 1800,
+    "author": "Dan Simmons",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 41,
+    "title": "War and Peace Vol 10",
+    "year": 1931,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 42,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1967,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 43,
+    "title": "Moby Dick Vol 5",
+    "year": 1944,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 44,
+    "title": "Brave New World Vol 9",
+    "year": 2002,
+    "author": "Herman Melville",
+    "genre": "Mystery"
+  },
+  {
+    "id": 45,
+    "title": "Hyperion Vol 10",
+    "year": 1971,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 46,
+    "title": "Hyperion Vol 8",
+    "year": 1854,
+    "author": "Aldous Huxley",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 47,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1856,
+    "author": "Oscar Wilde",
+    "genre": "Mystery"
+  },
+  {
+    "id": 48,
+    "title": "Neuromancer Vol 1",
+    "year": 1822,
+    "author": "Herman Melville",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 49,
+    "title": "1984 Vol 1",
+    "year": 1870,
+    "author": "James Joyce",
+    "genre": "Crime"
+  },
+  {
+    "id": 50,
+    "title": "Pride and Prejudice Vol 1",
+    "year": 1885,
+    "author": "George R.R. Martin",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 51,
+    "title": "Ulysses Vol 8",
+    "year": 2012,
+    "author": "Oscar Wilde",
+    "genre": "Adventure"
+  },
+  {
+    "id": 52,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1842,
+    "author": "William Gibson",
+    "genre": "Adventure"
+  },
+  {
+    "id": 53,
+    "title": "Ulysses Vol 2",
+    "year": 1833,
+    "author": "James Joyce",
+    "genre": "Crime"
+  },
+  {
+    "id": 54,
+    "title": "The Great Gatsby Vol 2",
+    "year": 2016,
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 55,
+    "title": "Crime and Punishment Vol 3",
+    "year": 2020,
+    "author": "Homer",
+    "genre": "Mystery"
+  },
+  {
+    "id": 56,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1859,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 57,
+    "title": "To Kill a Mockingbird Vol 9",
+    "year": 1975,
+    "author": "Aldous Huxley",
+    "genre": "Romance"
+  },
+  {
+    "id": 58,
+    "title": "Neuromancer Vol 4",
+    "year": 1830,
+    "author": "Frank Herbert",
+    "genre": "Mystery"
+  },
+  {
+    "id": 59,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1875,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 60,
+    "title": "Brave New World Vol 3",
+    "year": 1959,
+    "author": "Homer",
+    "genre": "Mystery"
+  },
+  {
+    "id": 61,
+    "title": "Neuromancer Vol 7",
+    "year": 1817,
+    "author": "William Gibson",
+    "genre": "Thriller"
+  },
+  {
+    "id": 62,
+    "title": "Brave New World Vol 7",
+    "year": 1932,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 63,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1996,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 64,
+    "title": "Brave New World Vol 2",
+    "year": 1886,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 65,
+    "title": "Les Mis\u00e9rables Vol 5",
+    "year": 1818,
+    "author": "Victor Hugo",
+    "genre": "Adventure"
+  },
+  {
+    "id": 66,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1823,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 67,
+    "title": "Ulysses Vol 8",
+    "year": 1826,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 68,
+    "title": "Neuromancer Vol 10",
+    "year": 1959,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 69,
+    "title": "The Winds of Winter Vol 2",
+    "year": 1852,
+    "author": "Homer",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 70,
+    "title": "The Brothers Karamazov Vol 2",
+    "year": 1983,
+    "author": "Dan Simmons",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 71,
+    "title": "Anna Karenina Vol 10",
+    "year": 1854,
+    "author": "William Gibson",
+    "genre": "Thriller"
+  },
+  {
+    "id": 72,
+    "title": "War and Peace Vol 10",
+    "year": 1961,
+    "author": "William Gibson",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 73,
+    "title": "Dune Messiah Vol 2",
+    "year": 1821,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 74,
+    "title": "The Winds of Winter Vol 9",
+    "year": 1834,
+    "author": "James Joyce",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 75,
+    "title": "Hyperion Vol 4",
+    "year": 1838,
+    "author": "George Orwell",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 76,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1914,
+    "author": "Oscar Wilde",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 77,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 1953,
+    "author": "James Joyce",
+    "genre": "Mystery"
+  },
+  {
+    "id": 78,
+    "title": "To Kill a Mockingbird Vol 8",
+    "year": 1958,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 79,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1890,
+    "author": "Harper Lee",
+    "genre": "Crime"
+  },
+  {
+    "id": 80,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1848,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 81,
+    "title": "Fahrenheit 451 Vol 4",
+    "year": 1809,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 82,
+    "title": "Brave New World Vol 1",
+    "year": 1822,
+    "author": "Isaac Asimov",
+    "genre": "Adventure"
+  },
+  {
+    "id": 83,
+    "title": "The Picture of Dorian Gray Vol 5",
+    "year": 1861,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 84,
+    "title": "Hyperion Vol 10",
+    "year": 1949,
+    "author": "Jane Austen",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 85,
+    "title": "The Brothers Karamazov Vol 3",
+    "year": 1914,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 86,
+    "title": "Moby Dick Vol 4",
+    "year": 1852,
+    "author": "Isaac Asimov",
+    "genre": "Romance"
+  },
+  {
+    "id": 87,
+    "title": "1984 Vol 2",
+    "year": 1822,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 88,
+    "title": "Moby Dick Vol 2",
+    "year": 2021,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 89,
+    "title": "Brave New World Vol 8",
+    "year": 1943,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 90,
+    "title": "The Catcher in the Rye Vol 6",
+    "year": 1893,
+    "author": "J.D. Salinger",
+    "genre": "Crime"
+  },
+  {
+    "id": 91,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1910,
+    "author": "Jane Austen",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 92,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 1849,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 93,
+    "title": "Hyperion Vol 8",
+    "year": 1979,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 94,
+    "title": "The Brothers Karamazov Vol 10",
+    "year": 2002,
+    "author": "Frank Herbert",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 95,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 1991,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 96,
+    "title": "Brave New World Vol 6",
+    "year": 2015,
+    "author": "Isaac Asimov",
+    "genre": "Classic"
+  },
+  {
+    "id": 97,
+    "title": "1984 Vol 7",
+    "year": 1921,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 98,
+    "title": "War and Peace Vol 9",
+    "year": 1802,
+    "author": "William Gibson",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 99,
+    "title": "The Picture of Dorian Gray Vol 10",
+    "year": 1927,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 100,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1894,
+    "author": "Leo Tolstoy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 101,
+    "title": "The Great Gatsby Vol 4",
+    "year": 1894,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 102,
+    "title": "1984 Vol 9",
+    "year": 1950,
+    "author": "Harper Lee",
+    "genre": "Classic"
+  },
+  {
+    "id": 103,
+    "title": "Neuromancer Vol 7",
+    "year": 1951,
+    "author": "William Gibson",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 104,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1870,
+    "author": "Isaac Asimov",
+    "genre": "Adventure"
+  },
+  {
+    "id": 105,
+    "title": "Ulysses Vol 7",
+    "year": 1943,
+    "author": "Isaac Asimov",
+    "genre": "Romance"
+  },
+  {
+    "id": 106,
+    "title": "To Kill a Mockingbird Vol 4",
+    "year": 1912,
+    "author": "William Gibson",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 107,
+    "title": "Ulysses Vol 1",
+    "year": 1847,
+    "author": "J.D. Salinger",
+    "genre": "Classic"
+  },
+  {
+    "id": 108,
+    "title": "Brave New World Vol 7",
+    "year": 1940,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Romance"
+  },
+  {
+    "id": 109,
+    "title": "Les Mis\u00e9rables Vol 2",
+    "year": 1849,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 110,
+    "title": "The Last Kingdom Vol 4",
+    "year": 1840,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 111,
+    "title": "Fahrenheit 451 Vol 1",
+    "year": 2021,
+    "author": "Dan Simmons",
+    "genre": "Crime"
+  },
+  {
+    "id": 112,
+    "title": "The Great Gatsby Vol 5",
+    "year": 1898,
+    "author": "Ray Bradbury",
+    "genre": "Thriller"
+  },
+  {
+    "id": 113,
+    "title": "The Great Gatsby Vol 5",
+    "year": 1971,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 114,
+    "title": "Foundation's Edge Vol 5",
+    "year": 2025,
+    "author": "Jane Austen",
+    "genre": "Crime"
+  },
+  {
+    "id": 115,
+    "title": "Neuromancer Vol 3",
+    "year": 2019,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 116,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1863,
+    "author": "Jane Austen",
+    "genre": "Horror"
+  },
+  {
+    "id": 117,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1930,
+    "author": "Oscar Wilde",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 118,
+    "title": "The Odyssey Vol 7",
+    "year": 2015,
+    "author": "Herman Melville",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 119,
+    "title": "Ulysses Vol 9",
+    "year": 2022,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 120,
+    "title": "To Kill a Mockingbird Vol 8",
+    "year": 2023,
+    "author": "Bernard Cornwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 121,
+    "title": "The Brothers Karamazov Vol 8",
+    "year": 1999,
+    "author": "Bernard Cornwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 122,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1967,
+    "author": "Aldous Huxley",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 123,
+    "title": "Foundation's Edge Vol 3",
+    "year": 1965,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 124,
+    "title": "Anna Karenina Vol 9",
+    "year": 2020,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 125,
+    "title": "Crime and Punishment Vol 1",
+    "year": 1871,
+    "author": "Leo Tolstoy",
+    "genre": "Crime"
+  },
+  {
+    "id": 126,
+    "title": "Ulysses Vol 8",
+    "year": 1911,
+    "author": "Dan Simmons",
+    "genre": "Thriller"
+  },
+  {
+    "id": 127,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1913,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 128,
+    "title": "The Odyssey Vol 1",
+    "year": 1880,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 129,
+    "title": "Crime and Punishment Vol 4",
+    "year": 1942,
+    "author": "George Orwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 130,
+    "title": "Ulysses Vol 1",
+    "year": 1902,
+    "author": "William Gibson",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 131,
+    "title": "Ulysses Vol 3",
+    "year": 1851,
+    "author": "Frank Herbert",
+    "genre": "Horror"
+  },
+  {
+    "id": 132,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 2009,
+    "author": "Aldous Huxley",
+    "genre": "Crime"
+  },
+  {
+    "id": 133,
+    "title": "Moby Dick Vol 7",
+    "year": 1823,
+    "author": "Harper Lee",
+    "genre": "Thriller"
+  },
+  {
+    "id": 134,
+    "title": "War and Peace Vol 5",
+    "year": 1999,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 135,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1838,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 136,
+    "title": "The Winds of Winter Vol 2",
+    "year": 2014,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 137,
+    "title": "Dune Messiah Vol 2",
+    "year": 1888,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Thriller"
+  },
+  {
+    "id": 138,
+    "title": "The Picture of Dorian Gray Vol 9",
+    "year": 1869,
+    "author": "Harper Lee",
+    "genre": "Adventure"
+  },
+  {
+    "id": 139,
+    "title": "Dune Messiah Vol 2",
+    "year": 1974,
+    "author": "Bernard Cornwell",
+    "genre": "Thriller"
+  },
+  {
+    "id": 140,
+    "title": "Hyperion Vol 4",
+    "year": 2008,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 141,
+    "title": "1984 Vol 8",
+    "year": 1903,
+    "author": "Dan Simmons",
+    "genre": "Classic"
+  },
+  {
+    "id": 142,
+    "title": "War and Peace Vol 8",
+    "year": 1956,
+    "author": "George R.R. Martin",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 143,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1842,
+    "author": "Leo Tolstoy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 144,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1977,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 145,
+    "title": "The Great Gatsby Vol 10",
+    "year": 1972,
+    "author": "Frank Herbert",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 146,
+    "title": "Dune Messiah Vol 6",
+    "year": 1969,
+    "author": "Ray Bradbury",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 147,
+    "title": "The Odyssey Vol 7",
+    "year": 1875,
+    "author": "Bernard Cornwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 148,
+    "title": "Dune Messiah Vol 5",
+    "year": 1843,
+    "author": "Leo Tolstoy",
+    "genre": "Horror"
+  },
+  {
+    "id": 149,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1911,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 150,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1835,
+    "author": "Dan Simmons",
+    "genre": "Horror"
+  },
+  {
+    "id": 151,
+    "title": "Les Mis\u00e9rables Vol 8",
+    "year": 1913,
+    "author": "Oscar Wilde",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 152,
+    "title": "Moby Dick Vol 3",
+    "year": 1904,
+    "author": "J.D. Salinger",
+    "genre": "Thriller"
+  },
+  {
+    "id": 153,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1845,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 154,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1970,
+    "author": "Jane Austen",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 155,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1957,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 156,
+    "title": "The Winds of Winter Vol 2",
+    "year": 1857,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 157,
+    "title": "Neuromancer Vol 4",
+    "year": 1819,
+    "author": "Frank Herbert",
+    "genre": "Horror"
+  },
+  {
+    "id": 158,
+    "title": "Fahrenheit 451 Vol 4",
+    "year": 1908,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 159,
+    "title": "The Great Gatsby Vol 8",
+    "year": 1940,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 160,
+    "title": "War and Peace Vol 7",
+    "year": 1802,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 161,
+    "title": "Dune Messiah Vol 3",
+    "year": 1895,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 162,
+    "title": "Hyperion Vol 2",
+    "year": 1944,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 163,
+    "title": "Anna Karenina Vol 2",
+    "year": 1822,
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 164,
+    "title": "The Great Gatsby Vol 3",
+    "year": 2003,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 165,
+    "title": "War and Peace Vol 2",
+    "year": 1905,
+    "author": "James Joyce",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 166,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1936,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Adventure"
+  },
+  {
+    "id": 167,
+    "title": "Pride and Prejudice Vol 8",
+    "year": 1816,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 168,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1921,
+    "author": "Jane Austen",
+    "genre": "Classic"
+  },
+  {
+    "id": 169,
+    "title": "The Odyssey Vol 4",
+    "year": 1960,
+    "author": "Herman Melville",
+    "genre": "Thriller"
+  },
+  {
+    "id": 170,
+    "title": "Hyperion Vol 7",
+    "year": 1965,
+    "author": "Victor Hugo",
+    "genre": "Crime"
+  },
+  {
+    "id": 171,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1991,
+    "author": "George Orwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 172,
+    "title": "Ulysses Vol 4",
+    "year": 1863,
+    "author": "George Orwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 173,
+    "title": "Hyperion Vol 8",
+    "year": 1912,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Crime"
+  },
+  {
+    "id": 174,
+    "title": "The Last Kingdom Vol 10",
+    "year": 1935,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 175,
+    "title": "1984 Vol 6",
+    "year": 1981,
+    "author": "Harper Lee",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 176,
+    "title": "The Odyssey Vol 6",
+    "year": 1873,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 177,
+    "title": "Hyperion Vol 4",
+    "year": 1951,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 178,
+    "title": "Dune Messiah Vol 3",
+    "year": 1872,
+    "author": "Aldous Huxley",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 179,
+    "title": "Moby Dick Vol 1",
+    "year": 1803,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Thriller"
+  },
+  {
+    "id": 180,
+    "title": "Brave New World Vol 6",
+    "year": 1907,
+    "author": "Aldous Huxley",
+    "genre": "Classic"
+  },
+  {
+    "id": 181,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1987,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 182,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1950,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 183,
+    "title": "Dune Messiah Vol 2",
+    "year": 1948,
+    "author": "Homer",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 184,
+    "title": "The Last Kingdom Vol 6",
+    "year": 1915,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 185,
+    "title": "Foundation's Edge Vol 2",
+    "year": 1820,
+    "author": "James Joyce",
+    "genre": "Horror"
+  },
+  {
+    "id": 186,
+    "title": "Anna Karenina Vol 4",
+    "year": 1966,
+    "author": "Oscar Wilde",
+    "genre": "Adventure"
+  },
+  {
+    "id": 187,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1908,
+    "author": "Frank Herbert",
+    "genre": "Classic"
+  },
+  {
+    "id": 188,
+    "title": "Brave New World Vol 8",
+    "year": 1969,
+    "author": "George R.R. Martin",
+    "genre": "Horror"
+  },
+  {
+    "id": 189,
+    "title": "Neuromancer Vol 7",
+    "year": 1818,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 190,
+    "title": "The Winds of Winter Vol 4",
+    "year": 2013,
+    "author": "George R.R. Martin",
+    "genre": "Horror"
+  },
+  {
+    "id": 191,
+    "title": "Fahrenheit 451 Vol 10",
+    "year": 1858,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 192,
+    "title": "Hyperion Vol 5",
+    "year": 1958,
+    "author": "Ray Bradbury",
+    "genre": "Thriller"
+  },
+  {
+    "id": 193,
+    "title": "The Last Kingdom Vol 1",
+    "year": 1993,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 194,
+    "title": "Brave New World Vol 4",
+    "year": 1801,
+    "author": "Victor Hugo",
+    "genre": "Adventure"
+  },
+  {
+    "id": 195,
+    "title": "Moby Dick Vol 4",
+    "year": 1864,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 196,
+    "title": "Dune Messiah Vol 3",
+    "year": 1919,
+    "author": "Dan Simmons",
+    "genre": "Crime"
+  },
+  {
+    "id": 197,
+    "title": "Anna Karenina Vol 7",
+    "year": 2017,
+    "author": "Leo Tolstoy",
+    "genre": "Romance"
+  },
+  {
+    "id": 198,
+    "title": "The Last Kingdom Vol 7",
+    "year": 1972,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 199,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 2019,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic"
+  },
+  {
+    "id": 200,
+    "title": "Crime and Punishment Vol 3",
+    "year": 1984,
+    "author": "Aldous Huxley",
+    "genre": "Crime"
+  },
+  {
+    "id": 201,
+    "title": "The Odyssey Vol 4",
+    "year": 1803,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 202,
+    "title": "The Catcher in the Rye Vol 5",
+    "year": 1850,
+    "author": "Ray Bradbury",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 203,
+    "title": "The Picture of Dorian Gray Vol 8",
+    "year": 2021,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 204,
+    "title": "The Last Kingdom Vol 1",
+    "year": 1941,
+    "author": "Ray Bradbury",
+    "genre": "Crime"
+  },
+  {
+    "id": 205,
+    "title": "Pride and Prejudice Vol 9",
+    "year": 1838,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 206,
+    "title": "Les Mis\u00e9rables Vol 10",
+    "year": 1863,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 207,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1931,
+    "author": "Isaac Asimov",
+    "genre": "Adventure"
+  },
+  {
+    "id": 208,
+    "title": "Hyperion Vol 4",
+    "year": 1979,
+    "author": "Jane Austen",
+    "genre": "Thriller"
+  },
+  {
+    "id": 209,
+    "title": "Moby Dick Vol 1",
+    "year": 1903,
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 210,
+    "title": "Brave New World Vol 3",
+    "year": 1808,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 211,
+    "title": "The Odyssey Vol 8",
+    "year": 1904,
+    "author": "James Joyce",
+    "genre": "Crime"
+  },
+  {
+    "id": 212,
+    "title": "The Catcher in the Rye Vol 8",
+    "year": 1912,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 213,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1919,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 214,
+    "title": "Neuromancer Vol 3",
+    "year": 1850,
+    "author": "Jane Austen",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 215,
+    "title": "Crime and Punishment Vol 5",
+    "year": 1860,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance"
+  },
+  {
+    "id": 216,
+    "title": "Anna Karenina Vol 6",
+    "year": 1847,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 217,
+    "title": "To Kill a Mockingbird Vol 9",
+    "year": 1852,
+    "author": "J.D. Salinger",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 218,
+    "title": "Moby Dick Vol 9",
+    "year": 2024,
+    "author": "J.D. Salinger",
+    "genre": "Romance"
+  },
+  {
+    "id": 219,
+    "title": "The Picture of Dorian Gray Vol 1",
+    "year": 1893,
+    "author": "Oscar Wilde",
+    "genre": "Mystery"
+  },
+  {
+    "id": 220,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1900,
+    "author": "Bernard Cornwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 221,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 1925,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 222,
+    "title": "The Last Kingdom Vol 8",
+    "year": 1878,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Crime"
+  },
+  {
+    "id": 223,
+    "title": "Brave New World Vol 9",
+    "year": 2006,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 224,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1832,
+    "author": "Homer",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 225,
+    "title": "Neuromancer Vol 9",
+    "year": 2011,
+    "author": "Ray Bradbury",
+    "genre": "Classic"
+  },
+  {
+    "id": 226,
+    "title": "Moby Dick Vol 10",
+    "year": 1980,
+    "author": "Oscar Wilde",
+    "genre": "Classic"
+  },
+  {
+    "id": 227,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1824,
+    "author": "Leo Tolstoy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 228,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1844,
+    "author": "Harper Lee",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 229,
+    "title": "Foundation's Edge Vol 6",
+    "year": 1872,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 230,
+    "title": "1984 Vol 6",
+    "year": 1938,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 231,
+    "title": "1984 Vol 5",
+    "year": 1867,
+    "author": "Aldous Huxley",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 232,
+    "title": "Moby Dick Vol 2",
+    "year": 1822,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 233,
+    "title": "The Odyssey Vol 2",
+    "year": 1914,
+    "author": "George Orwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 234,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 1848,
+    "author": "Herman Melville",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 235,
+    "title": "Ulysses Vol 1",
+    "year": 1905,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 236,
+    "title": "Crime and Punishment Vol 6",
+    "year": 1944,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 237,
+    "title": "Brave New World Vol 1",
+    "year": 1835,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 238,
+    "title": "The Winds of Winter Vol 6",
+    "year": 1902,
+    "author": "Homer",
+    "genre": "Thriller"
+  },
+  {
+    "id": 239,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1812,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 240,
+    "title": "Fahrenheit 451 Vol 3",
+    "year": 1985,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 241,
+    "title": "Foundation's Edge Vol 6",
+    "year": 1962,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 242,
+    "title": "Dune Messiah Vol 9",
+    "year": 2016,
+    "author": "Leo Tolstoy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 243,
+    "title": "The Winds of Winter Vol 6",
+    "year": 1951,
+    "author": "James Joyce",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 244,
+    "title": "The Great Gatsby Vol 7",
+    "year": 1896,
+    "author": "J.D. Salinger",
+    "genre": "Adventure"
+  },
+  {
+    "id": 245,
+    "title": "Neuromancer Vol 2",
+    "year": 1882,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 246,
+    "title": "Dune Messiah Vol 7",
+    "year": 1953,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 247,
+    "title": "Les Mis\u00e9rables Vol 6",
+    "year": 1941,
+    "author": "Frank Herbert",
+    "genre": "Adventure"
+  },
+  {
+    "id": 248,
+    "title": "1984 Vol 7",
+    "year": 2010,
+    "author": "Aldous Huxley",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 249,
+    "title": "Neuromancer Vol 1",
+    "year": 1878,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 250,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 2000,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 251,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1970,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 252,
+    "title": "Anna Karenina Vol 4",
+    "year": 1868,
+    "author": "Homer",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 253,
+    "title": "Crime and Punishment Vol 7",
+    "year": 1809,
+    "author": "Aldous Huxley",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 254,
+    "title": "Brave New World Vol 3",
+    "year": 1898,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 255,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 1925,
+    "author": "Aldous Huxley",
+    "genre": "Thriller"
+  },
+  {
+    "id": 256,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1914,
+    "author": "Homer",
+    "genre": "Thriller"
+  },
+  {
+    "id": 257,
+    "title": "Anna Karenina Vol 5",
+    "year": 1898,
+    "author": "Frank Herbert",
+    "genre": "Crime"
+  },
+  {
+    "id": 258,
+    "title": "Hyperion Vol 8",
+    "year": 1974,
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 259,
+    "title": "The Brothers Karamazov Vol 6",
+    "year": 1870,
+    "author": "Leo Tolstoy",
+    "genre": "Adventure"
+  },
+  {
+    "id": 260,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1841,
+    "author": "James Joyce",
+    "genre": "Adventure"
+  },
+  {
+    "id": 261,
+    "title": "Anna Karenina Vol 4",
+    "year": 1846,
+    "author": "Dan Simmons",
+    "genre": "Crime"
+  },
+  {
+    "id": 262,
+    "title": "Moby Dick Vol 2",
+    "year": 1916,
+    "author": "J.D. Salinger",
+    "genre": "Adventure"
+  },
+  {
+    "id": 263,
+    "title": "Pride and Prejudice Vol 9",
+    "year": 1896,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 264,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1902,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 265,
+    "title": "Les Mis\u00e9rables Vol 5",
+    "year": 2009,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 266,
+    "title": "Hyperion Vol 8",
+    "year": 1964,
+    "author": "Aldous Huxley",
+    "genre": "Adventure"
+  },
+  {
+    "id": 267,
+    "title": "Neuromancer Vol 7",
+    "year": 1964,
+    "author": "Ray Bradbury",
+    "genre": "Classic"
+  },
+  {
+    "id": 268,
+    "title": "Les Mis\u00e9rables Vol 10",
+    "year": 1978,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 269,
+    "title": "Brave New World Vol 9",
+    "year": 1939,
+    "author": "Herman Melville",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 270,
+    "title": "Dune Messiah Vol 4",
+    "year": 1803,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 271,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1871,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 272,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1858,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 273,
+    "title": "War and Peace Vol 4",
+    "year": 1843,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 274,
+    "title": "To Kill a Mockingbird Vol 2",
+    "year": 1887,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 275,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 2004,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 276,
+    "title": "The Picture of Dorian Gray Vol 4",
+    "year": 1884,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 277,
+    "title": "Dune Messiah Vol 3",
+    "year": 1900,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 278,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1974,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 279,
+    "title": "Dune Messiah Vol 9",
+    "year": 1950,
+    "author": "Dan Simmons",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 280,
+    "title": "Moby Dick Vol 10",
+    "year": 1938,
+    "author": "Ray Bradbury",
+    "genre": "Mystery"
+  },
+  {
+    "id": 281,
+    "title": "Dune Messiah Vol 10",
+    "year": 1832,
+    "author": "Homer",
+    "genre": "Classic"
+  },
+  {
+    "id": 282,
+    "title": "The Brothers Karamazov Vol 4",
+    "year": 1890,
+    "author": "Oscar Wilde",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 283,
+    "title": "Ulysses Vol 6",
+    "year": 1957,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 284,
+    "title": "Anna Karenina Vol 1",
+    "year": 1852,
+    "author": "Dan Simmons",
+    "genre": "Thriller"
+  },
+  {
+    "id": 285,
+    "title": "Brave New World Vol 8",
+    "year": 1892,
+    "author": "Leo Tolstoy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 286,
+    "title": "War and Peace Vol 8",
+    "year": 1883,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 287,
+    "title": "War and Peace Vol 6",
+    "year": 1936,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 288,
+    "title": "Ulysses Vol 10",
+    "year": 1852,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic"
+  },
+  {
+    "id": 289,
+    "title": "Hyperion Vol 10",
+    "year": 2014,
+    "author": "Bernard Cornwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 290,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1828,
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 291,
+    "title": "Moby Dick Vol 6",
+    "year": 1806,
+    "author": "Aldous Huxley",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 292,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1886,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 293,
+    "title": "Les Mis\u00e9rables Vol 8",
+    "year": 1824,
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 294,
+    "title": "To Kill a Mockingbird Vol 6",
+    "year": 1855,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 295,
+    "title": "Neuromancer Vol 2",
+    "year": 1960,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 296,
+    "title": "Neuromancer Vol 1",
+    "year": 1863,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 297,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1883,
+    "author": "Homer",
+    "genre": "Crime"
+  },
+  {
+    "id": 298,
+    "title": "Fahrenheit 451 Vol 1",
+    "year": 1869,
+    "author": "J.D. Salinger",
+    "genre": "Classic"
+  },
+  {
+    "id": 299,
+    "title": "Hyperion Vol 6",
+    "year": 2018,
+    "author": "Harper Lee",
+    "genre": "Adventure"
+  },
+  {
+    "id": 300,
+    "title": "Pride and Prejudice Vol 9",
+    "year": 1898,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 301,
+    "title": "Crime and Punishment Vol 2",
+    "year": 2018,
+    "author": "Ray Bradbury",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 302,
+    "title": "Ulysses Vol 6",
+    "year": 1978,
+    "author": "James Joyce",
+    "genre": "Horror"
+  },
+  {
+    "id": 303,
+    "title": "Anna Karenina Vol 4",
+    "year": 2000,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 304,
+    "title": "The Picture of Dorian Gray Vol 10",
+    "year": 1990,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 305,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1840,
+    "author": "Aldous Huxley",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 306,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1893,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 307,
+    "title": "Crime and Punishment Vol 4",
+    "year": 1982,
+    "author": "Homer",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 308,
+    "title": "Neuromancer Vol 9",
+    "year": 1906,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 309,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1862,
+    "author": "Aldous Huxley",
+    "genre": "Romance"
+  },
+  {
+    "id": 310,
+    "title": "1984 Vol 7",
+    "year": 1832,
+    "author": "Bernard Cornwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 311,
+    "title": "Hyperion Vol 3",
+    "year": 1908,
+    "author": "Jane Austen",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 312,
+    "title": "Moby Dick Vol 2",
+    "year": 1800,
+    "author": "William Gibson",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 313,
+    "title": "Fahrenheit 451 Vol 2",
+    "year": 1806,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 314,
+    "title": "The Catcher in the Rye Vol 9",
+    "year": 1961,
+    "author": "Herman Melville",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 315,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1826,
+    "author": "Ray Bradbury",
+    "genre": "Thriller"
+  },
+  {
+    "id": 316,
+    "title": "Dune Messiah Vol 7",
+    "year": 1890,
+    "author": "George Orwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 317,
+    "title": "Anna Karenina Vol 4",
+    "year": 1902,
+    "author": "Dan Simmons",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 318,
+    "title": "To Kill a Mockingbird Vol 4",
+    "year": 1888,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic"
+  },
+  {
+    "id": 319,
+    "title": "Ulysses Vol 10",
+    "year": 1929,
+    "author": "Jane Austen",
+    "genre": "Classic"
+  },
+  {
+    "id": 320,
+    "title": "The Last Kingdom Vol 6",
+    "year": 1933,
+    "author": "Victor Hugo",
+    "genre": "Thriller"
+  },
+  {
+    "id": 321,
+    "title": "Hyperion Vol 9",
+    "year": 2016,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 322,
+    "title": "Fahrenheit 451 Vol 1",
+    "year": 1815,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 323,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1863,
+    "author": "Victor Hugo",
+    "genre": "Romance"
+  },
+  {
+    "id": 324,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1927,
+    "author": "Dan Simmons",
+    "genre": "Crime"
+  },
+  {
+    "id": 325,
+    "title": "Pride and Prejudice Vol 4",
+    "year": 1829,
+    "author": "William Gibson",
+    "genre": "Classic"
+  },
+  {
+    "id": 326,
+    "title": "1984 Vol 3",
+    "year": 1834,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 327,
+    "title": "The Winds of Winter Vol 2",
+    "year": 1947,
+    "author": "Oscar Wilde",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 328,
+    "title": "The Catcher in the Rye Vol 9",
+    "year": 1998,
+    "author": "George R.R. Martin",
+    "genre": "Adventure"
+  },
+  {
+    "id": 329,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1911,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 330,
+    "title": "Pride and Prejudice Vol 2",
+    "year": 1812,
+    "author": "James Joyce",
+    "genre": "Romance"
+  },
+  {
+    "id": 331,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1923,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 332,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1946,
+    "author": "William Gibson",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 333,
+    "title": "The Catcher in the Rye Vol 2",
+    "year": 1970,
+    "author": "Harper Lee",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 334,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1899,
+    "author": "J.D. Salinger",
+    "genre": "Classic"
+  },
+  {
+    "id": 335,
+    "title": "Anna Karenina Vol 4",
+    "year": 1905,
+    "author": "Frank Herbert",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 336,
+    "title": "Anna Karenina Vol 3",
+    "year": 1866,
+    "author": "George R.R. Martin",
+    "genre": "Horror"
+  },
+  {
+    "id": 337,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1924,
+    "author": "Harper Lee",
+    "genre": "Thriller"
+  },
+  {
+    "id": 338,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1937,
+    "author": "Oscar Wilde",
+    "genre": "Adventure"
+  },
+  {
+    "id": 339,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1862,
+    "author": "George Orwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 340,
+    "title": "Brave New World Vol 3",
+    "year": 1988,
+    "author": "William Gibson",
+    "genre": "Adventure"
+  },
+  {
+    "id": 341,
+    "title": "War and Peace Vol 2",
+    "year": 1822,
+    "author": "Herman Melville",
+    "genre": "Thriller"
+  },
+  {
+    "id": 342,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1962,
+    "author": "J.D. Salinger",
+    "genre": "Romance"
+  },
+  {
+    "id": 343,
+    "title": "Moby Dick Vol 4",
+    "year": 1836,
+    "author": "Ray Bradbury",
+    "genre": "Thriller"
+  },
+  {
+    "id": 344,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1922,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 345,
+    "title": "The Winds of Winter Vol 1",
+    "year": 2011,
+    "author": "Jane Austen",
+    "genre": "Horror"
+  },
+  {
+    "id": 346,
+    "title": "Les Mis\u00e9rables Vol 10",
+    "year": 1906,
+    "author": "Homer",
+    "genre": "Crime"
+  },
+  {
+    "id": 347,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1817,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 348,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1821,
+    "author": "Leo Tolstoy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 349,
+    "title": "The Last Kingdom Vol 2",
+    "year": 2011,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 350,
+    "title": "Neuromancer Vol 2",
+    "year": 2022,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 351,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1947,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 352,
+    "title": "The Great Gatsby Vol 1",
+    "year": 1949,
+    "author": "Aldous Huxley",
+    "genre": "Crime"
+  },
+  {
+    "id": 353,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1889,
+    "author": "Isaac Asimov",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 354,
+    "title": "1984 Vol 6",
+    "year": 1922,
+    "author": "Harper Lee",
+    "genre": "Crime"
+  },
+  {
+    "id": 355,
+    "title": "Moby Dick Vol 10",
+    "year": 2010,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Horror"
+  },
+  {
+    "id": 356,
+    "title": "Neuromancer Vol 10",
+    "year": 2005,
+    "author": "George Orwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 357,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1827,
+    "author": "George R.R. Martin",
+    "genre": "Adventure"
+  },
+  {
+    "id": 358,
+    "title": "1984 Vol 9",
+    "year": 1841,
+    "author": "Victor Hugo",
+    "genre": "Crime"
+  },
+  {
+    "id": 359,
+    "title": "1984 Vol 2",
+    "year": 2005,
+    "author": "Bernard Cornwell",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 360,
+    "title": "The Picture of Dorian Gray Vol 5",
+    "year": 1832,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 361,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1813,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 362,
+    "title": "War and Peace Vol 9",
+    "year": 1936,
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 363,
+    "title": "Les Mis\u00e9rables Vol 5",
+    "year": 1855,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 364,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1807,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 365,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 1947,
+    "author": "Frank Herbert",
+    "genre": "Mystery"
+  },
+  {
+    "id": 366,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1992,
+    "author": "Victor Hugo",
+    "genre": "Horror"
+  },
+  {
+    "id": 367,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 1990,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 368,
+    "title": "The Great Gatsby Vol 8",
+    "year": 1907,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 369,
+    "title": "Neuromancer Vol 10",
+    "year": 1837,
+    "author": "Victor Hugo",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 370,
+    "title": "The Brothers Karamazov Vol 9",
+    "year": 1913,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 371,
+    "title": "Dune Messiah Vol 9",
+    "year": 1945,
+    "author": "Jane Austen",
+    "genre": "Classic"
+  },
+  {
+    "id": 372,
+    "title": "Anna Karenina Vol 3",
+    "year": 1973,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 373,
+    "title": "Moby Dick Vol 9",
+    "year": 1854,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic"
+  },
+  {
+    "id": 374,
+    "title": "Hyperion Vol 2",
+    "year": 1833,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 375,
+    "title": "The Odyssey Vol 8",
+    "year": 2008,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 376,
+    "title": "Anna Karenina Vol 2",
+    "year": 1982,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 377,
+    "title": "The Catcher in the Rye Vol 2",
+    "year": 1866,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 378,
+    "title": "1984 Vol 10",
+    "year": 1906,
+    "author": "Oscar Wilde",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 379,
+    "title": "Fahrenheit 451 Vol 5",
+    "year": 1826,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 380,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1891,
+    "author": "Isaac Asimov",
+    "genre": "Classic"
+  },
+  {
+    "id": 381,
+    "title": "Hyperion Vol 3",
+    "year": 1993,
+    "author": "William Gibson",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 382,
+    "title": "Ulysses Vol 6",
+    "year": 1924,
+    "author": "George R.R. Martin",
+    "genre": "Crime"
+  },
+  {
+    "id": 383,
+    "title": "Anna Karenina Vol 6",
+    "year": 1933,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 384,
+    "title": "Fahrenheit 451 Vol 2",
+    "year": 1811,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 385,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1969,
+    "author": "Aldous Huxley",
+    "genre": "Mystery"
+  },
+  {
+    "id": 386,
+    "title": "Moby Dick Vol 1",
+    "year": 1972,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 387,
+    "title": "The Picture of Dorian Gray Vol 4",
+    "year": 1914,
+    "author": "Ray Bradbury",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 388,
+    "title": "The Last Kingdom Vol 9",
+    "year": 1930,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 389,
+    "title": "War and Peace Vol 6",
+    "year": 2024,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Crime"
+  },
+  {
+    "id": 390,
+    "title": "The Picture of Dorian Gray Vol 10",
+    "year": 1876,
+    "author": "Ray Bradbury",
+    "genre": "Romance"
+  },
+  {
+    "id": 391,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1945,
+    "author": "James Joyce",
+    "genre": "Romance"
+  },
+  {
+    "id": 392,
+    "title": "1984 Vol 8",
+    "year": 2015,
+    "author": "Ray Bradbury",
+    "genre": "Mystery"
+  },
+  {
+    "id": 393,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1981,
+    "author": "Aldous Huxley",
+    "genre": "Crime"
+  },
+  {
+    "id": 394,
+    "title": "War and Peace Vol 9",
+    "year": 2016,
+    "author": "Isaac Asimov",
+    "genre": "Adventure"
+  },
+  {
+    "id": 395,
+    "title": "Neuromancer Vol 3",
+    "year": 1986,
+    "author": "Leo Tolstoy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 396,
+    "title": "Fahrenheit 451 Vol 5",
+    "year": 1896,
+    "author": "Victor Hugo",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 397,
+    "title": "The Great Gatsby Vol 2",
+    "year": 1870,
+    "author": "Isaac Asimov",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 398,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1800,
+    "author": "Isaac Asimov",
+    "genre": "Classic"
+  },
+  {
+    "id": 399,
+    "title": "Ulysses Vol 9",
+    "year": 1886,
+    "author": "Harper Lee",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 400,
+    "title": "Ulysses Vol 6",
+    "year": 1991,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 401,
+    "title": "Anna Karenina Vol 8",
+    "year": 1858,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 402,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1822,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 403,
+    "title": "The Odyssey Vol 7",
+    "year": 2006,
+    "author": "Homer",
+    "genre": "Crime"
+  },
+  {
+    "id": 404,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1848,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 405,
+    "title": "Ulysses Vol 2",
+    "year": 1951,
+    "author": "Homer",
+    "genre": "Romance"
+  },
+  {
+    "id": 406,
+    "title": "The Brothers Karamazov Vol 5",
+    "year": 1830,
+    "author": "Ray Bradbury",
+    "genre": "Crime"
+  },
+  {
+    "id": 407,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1926,
+    "author": "Herman Melville",
+    "genre": "Romance"
+  },
+  {
+    "id": 408,
+    "title": "Moby Dick Vol 10",
+    "year": 1942,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 409,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1956,
+    "author": "William Gibson",
+    "genre": "Romance"
+  },
+  {
+    "id": 410,
+    "title": "Crime and Punishment Vol 6",
+    "year": 1927,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 411,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 1923,
+    "author": "Dan Simmons",
+    "genre": "Mystery"
+  },
+  {
+    "id": 412,
+    "title": "War and Peace Vol 3",
+    "year": 1832,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 413,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1895,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 414,
+    "title": "Crime and Punishment Vol 10",
+    "year": 1833,
+    "author": "Bernard Cornwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 415,
+    "title": "To Kill a Mockingbird Vol 5",
+    "year": 1964,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 416,
+    "title": "The Brothers Karamazov Vol 5",
+    "year": 1819,
+    "author": "Ray Bradbury",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 417,
+    "title": "Ulysses Vol 10",
+    "year": 1821,
+    "author": "Victor Hugo",
+    "genre": "Thriller"
+  },
+  {
+    "id": 418,
+    "title": "1984 Vol 6",
+    "year": 2013,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 419,
+    "title": "War and Peace Vol 9",
+    "year": 1867,
+    "author": "Ray Bradbury",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 420,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1864,
+    "author": "Homer",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 421,
+    "title": "The Great Gatsby Vol 8",
+    "year": 1963,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Thriller"
+  },
+  {
+    "id": 422,
+    "title": "Ulysses Vol 7",
+    "year": 1945,
+    "author": "Dan Simmons",
+    "genre": "Mystery"
+  },
+  {
+    "id": 423,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1827,
+    "author": "Oscar Wilde",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 424,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1973,
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "id": 425,
+    "title": "The Odyssey Vol 8",
+    "year": 1874,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 426,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1878,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 427,
+    "title": "Anna Karenina Vol 3",
+    "year": 1810,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 428,
+    "title": "Moby Dick Vol 7",
+    "year": 1861,
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 429,
+    "title": "The Odyssey Vol 8",
+    "year": 1857,
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 430,
+    "title": "Ulysses Vol 5",
+    "year": 1977,
+    "author": "Ray Bradbury",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 431,
+    "title": "War and Peace Vol 5",
+    "year": 1872,
+    "author": "Harper Lee",
+    "genre": "Romance"
+  },
+  {
+    "id": 432,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1873,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance"
+  },
+  {
+    "id": 433,
+    "title": "Dune Messiah Vol 5",
+    "year": 1969,
+    "author": "George R.R. Martin",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 434,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1802,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 435,
+    "title": "1984 Vol 3",
+    "year": 1850,
+    "author": "Ray Bradbury",
+    "genre": "Romance"
+  },
+  {
+    "id": 436,
+    "title": "Pride and Prejudice Vol 10",
+    "year": 1905,
+    "author": "Jane Austen",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 437,
+    "title": "Ulysses Vol 3",
+    "year": 1972,
+    "author": "William Gibson",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 438,
+    "title": "Foundation's Edge Vol 1",
+    "year": 1963,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 439,
+    "title": "War and Peace Vol 3",
+    "year": 1969,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Mystery"
+  },
+  {
+    "id": 440,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1909,
+    "author": "Frank Herbert",
+    "genre": "Horror"
+  },
+  {
+    "id": 441,
+    "title": "The Winds of Winter Vol 6",
+    "year": 1966,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Horror"
+  },
+  {
+    "id": 442,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1844,
+    "author": "Herman Melville",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 443,
+    "title": "War and Peace Vol 8",
+    "year": 1863,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 444,
+    "title": "Crime and Punishment Vol 5",
+    "year": 1816,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 445,
+    "title": "War and Peace Vol 2",
+    "year": 1810,
+    "author": "J.D. Salinger",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 446,
+    "title": "Neuromancer Vol 2",
+    "year": 1890,
+    "author": "Jane Austen",
+    "genre": "Adventure"
+  },
+  {
+    "id": 447,
+    "title": "Anna Karenina Vol 6",
+    "year": 1933,
+    "author": "William Gibson",
+    "genre": "Mystery"
+  },
+  {
+    "id": 448,
+    "title": "Hyperion Vol 4",
+    "year": 1981,
+    "author": "Oscar Wilde",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 449,
+    "title": "Pride and Prejudice Vol 4",
+    "year": 1934,
+    "author": "Frank Herbert",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 450,
+    "title": "The Catcher in the Rye Vol 2",
+    "year": 2002,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 451,
+    "title": "Les Mis\u00e9rables Vol 8",
+    "year": 1899,
+    "author": "James Joyce",
+    "genre": "Adventure"
+  },
+  {
+    "id": 452,
+    "title": "The Winds of Winter Vol 2",
+    "year": 2007,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 453,
+    "title": "1984 Vol 9",
+    "year": 1978,
+    "author": "Oscar Wilde",
+    "genre": "Classic"
+  },
+  {
+    "id": 454,
+    "title": "Brave New World Vol 1",
+    "year": 1920,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 455,
+    "title": "Neuromancer Vol 4",
+    "year": 1954,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 456,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1962,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 457,
+    "title": "Dune Messiah Vol 9",
+    "year": 1997,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 458,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 2002,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 459,
+    "title": "Fahrenheit 451 Vol 7",
+    "year": 1999,
+    "author": "Jane Austen",
+    "genre": "Thriller"
+  },
+  {
+    "id": 460,
+    "title": "Neuromancer Vol 10",
+    "year": 1924,
+    "author": "J.D. Salinger",
+    "genre": "Thriller"
+  },
+  {
+    "id": 461,
+    "title": "1984 Vol 8",
+    "year": 1950,
+    "author": "Victor Hugo",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 462,
+    "title": "Crime and Punishment Vol 8",
+    "year": 1983,
+    "author": "Frank Herbert",
+    "genre": "Classic"
+  },
+  {
+    "id": 463,
+    "title": "Moby Dick Vol 8",
+    "year": 1891,
+    "author": "Isaac Asimov",
+    "genre": "Crime"
+  },
+  {
+    "id": 464,
+    "title": "The Last Kingdom Vol 1",
+    "year": 1883,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 465,
+    "title": "The Brothers Karamazov Vol 7",
+    "year": 1878,
+    "author": "Dan Simmons",
+    "genre": "Classic"
+  },
+  {
+    "id": 466,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1804,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Thriller"
+  },
+  {
+    "id": 467,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1957,
+    "author": "Isaac Asimov",
+    "genre": "Romance"
+  },
+  {
+    "id": 468,
+    "title": "The Great Gatsby Vol 8",
+    "year": 1982,
+    "author": "Aldous Huxley",
+    "genre": "Classic"
+  },
+  {
+    "id": 469,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1859,
+    "author": "Dan Simmons",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 470,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 2001,
+    "author": "Homer",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 471,
+    "title": "Anna Karenina Vol 1",
+    "year": 1802,
+    "author": "Frank Herbert",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 472,
+    "title": "Moby Dick Vol 10",
+    "year": 2015,
+    "author": "Bernard Cornwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 473,
+    "title": "The Odyssey Vol 7",
+    "year": 1899,
+    "author": "Oscar Wilde",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 474,
+    "title": "Dune Messiah Vol 10",
+    "year": 2003,
+    "author": "Frank Herbert",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 475,
+    "title": "Hyperion Vol 4",
+    "year": 1829,
+    "author": "J.D. Salinger",
+    "genre": "Classic"
+  },
+  {
+    "id": 476,
+    "title": "1984 Vol 5",
+    "year": 1867,
+    "author": "Victor Hugo",
+    "genre": "Mystery"
+  },
+  {
+    "id": 477,
+    "title": "War and Peace Vol 3",
+    "year": 2013,
+    "author": "George R.R. Martin",
+    "genre": "Mystery"
+  },
+  {
+    "id": 478,
+    "title": "Neuromancer Vol 5",
+    "year": 2006,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 479,
+    "title": "The Picture of Dorian Gray Vol 10",
+    "year": 1903,
+    "author": "Leo Tolstoy",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 480,
+    "title": "Moby Dick Vol 9",
+    "year": 1910,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 481,
+    "title": "Neuromancer Vol 10",
+    "year": 1876,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 482,
+    "title": "The Catcher in the Rye Vol 6",
+    "year": 1869,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Romance"
+  },
+  {
+    "id": 483,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 2025,
+    "author": "Harper Lee",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 484,
+    "title": "The Brothers Karamazov Vol 4",
+    "year": 1840,
+    "author": "William Gibson",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 485,
+    "title": "Hyperion Vol 5",
+    "year": 1878,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 486,
+    "title": "Hyperion Vol 9",
+    "year": 1857,
+    "author": "William Gibson",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 487,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1954,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 488,
+    "title": "Dune Messiah Vol 1",
+    "year": 1923,
+    "author": "James Joyce",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 489,
+    "title": "Ulysses Vol 4",
+    "year": 1957,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Thriller"
+  },
+  {
+    "id": 490,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1937,
+    "author": "Oscar Wilde",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 491,
+    "title": "Anna Karenina Vol 7",
+    "year": 1980,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 492,
+    "title": "Hyperion Vol 1",
+    "year": 1955,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 493,
+    "title": "Les Mis\u00e9rables Vol 2",
+    "year": 1954,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 494,
+    "title": "Hyperion Vol 1",
+    "year": 2000,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 495,
+    "title": "Fahrenheit 451 Vol 5",
+    "year": 1871,
+    "author": "Isaac Asimov",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 496,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1814,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 497,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1922,
+    "author": "Bernard Cornwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 498,
+    "title": "Pride and Prejudice Vol 1",
+    "year": 1920,
+    "author": "William Gibson",
+    "genre": "Crime"
+  },
+  {
+    "id": 499,
+    "title": "Neuromancer Vol 5",
+    "year": 2005,
+    "author": "Ray Bradbury",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 500,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1982,
+    "author": "Ray Bradbury",
+    "genre": "Adventure"
+  },
+  {
+    "id": 501,
+    "title": "The Great Gatsby Vol 10",
+    "year": 1914,
+    "author": "Jane Austen",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 502,
+    "title": "The Picture of Dorian Gray Vol 6",
+    "year": 1912,
+    "author": "James Joyce",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 503,
+    "title": "To Kill a Mockingbird Vol 4",
+    "year": 1851,
+    "author": "Leo Tolstoy",
+    "genre": "Thriller"
+  },
+  {
+    "id": 504,
+    "title": "Ulysses Vol 4",
+    "year": 1912,
+    "author": "Victor Hugo",
+    "genre": "Mystery"
+  },
+  {
+    "id": 505,
+    "title": "Ulysses Vol 5",
+    "year": 1859,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Adventure"
+  },
+  {
+    "id": 506,
+    "title": "Hyperion Vol 10",
+    "year": 1980,
+    "author": "Ray Bradbury",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 507,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1981,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 508,
+    "title": "Dune Messiah Vol 2",
+    "year": 2018,
+    "author": "George Orwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 509,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1924,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 510,
+    "title": "Brave New World Vol 6",
+    "year": 1810,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 511,
+    "title": "Hyperion Vol 9",
+    "year": 1896,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 512,
+    "title": "Moby Dick Vol 2",
+    "year": 1991,
+    "author": "James Joyce",
+    "genre": "Horror"
+  },
+  {
+    "id": 513,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1807,
+    "author": "George R.R. Martin",
+    "genre": "Thriller"
+  },
+  {
+    "id": 514,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1879,
+    "author": "Herman Melville",
+    "genre": "Adventure"
+  },
+  {
+    "id": 515,
+    "title": "Brave New World Vol 7",
+    "year": 2007,
+    "author": "William Gibson",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 516,
+    "title": "War and Peace Vol 4",
+    "year": 1917,
+    "author": "Aldous Huxley",
+    "genre": "Romance"
+  },
+  {
+    "id": 517,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1980,
+    "author": "Herman Melville",
+    "genre": "Horror"
+  },
+  {
+    "id": 518,
+    "title": "Brave New World Vol 2",
+    "year": 1904,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 519,
+    "title": "1984 Vol 7",
+    "year": 2005,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 520,
+    "title": "Brave New World Vol 4",
+    "year": 1866,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 521,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1870,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 522,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 1822,
+    "author": "Jane Austen",
+    "genre": "Classic"
+  },
+  {
+    "id": 523,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1847,
+    "author": "Herman Melville",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 524,
+    "title": "1984 Vol 9",
+    "year": 1871,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 525,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1844,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 526,
+    "title": "The Brothers Karamazov Vol 2",
+    "year": 1908,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 527,
+    "title": "Neuromancer Vol 9",
+    "year": 1863,
+    "author": "Leo Tolstoy",
+    "genre": "Romance"
+  },
+  {
+    "id": 528,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 1820,
+    "author": "Harper Lee",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 529,
+    "title": "Moby Dick Vol 9",
+    "year": 1875,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 530,
+    "title": "Les Mis\u00e9rables Vol 6",
+    "year": 1992,
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "id": 531,
+    "title": "Ulysses Vol 4",
+    "year": 1957,
+    "author": "William Gibson",
+    "genre": "Crime"
+  },
+  {
+    "id": 532,
+    "title": "Hyperion Vol 4",
+    "year": 1983,
+    "author": "William Gibson",
+    "genre": "Romance"
+  },
+  {
+    "id": 533,
+    "title": "Moby Dick Vol 1",
+    "year": 1845,
+    "author": "Dan Simmons",
+    "genre": "Classic"
+  },
+  {
+    "id": 534,
+    "title": "The Catcher in the Rye Vol 9",
+    "year": 1934,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 535,
+    "title": "Foundation's Edge Vol 5",
+    "year": 1894,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 536,
+    "title": "Brave New World Vol 1",
+    "year": 1972,
+    "author": "Oscar Wilde",
+    "genre": "Mystery"
+  },
+  {
+    "id": 537,
+    "title": "To Kill a Mockingbird Vol 2",
+    "year": 1877,
+    "author": "J.D. Salinger",
+    "genre": "Horror"
+  },
+  {
+    "id": 538,
+    "title": "The Winds of Winter Vol 6",
+    "year": 1932,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 539,
+    "title": "Brave New World Vol 5",
+    "year": 1993,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 540,
+    "title": "The Winds of Winter Vol 3",
+    "year": 1942,
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 541,
+    "title": "1984 Vol 1",
+    "year": 1928,
+    "author": "Herman Melville",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 542,
+    "title": "Neuromancer Vol 7",
+    "year": 1812,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 543,
+    "title": "Hyperion Vol 8",
+    "year": 2018,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 544,
+    "title": "Neuromancer Vol 9",
+    "year": 2022,
+    "author": "William Gibson",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 545,
+    "title": "Neuromancer Vol 7",
+    "year": 1852,
+    "author": "Frank Herbert",
+    "genre": "Thriller"
+  },
+  {
+    "id": 546,
+    "title": "Crime and Punishment Vol 3",
+    "year": 1948,
+    "author": "Dan Simmons",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 547,
+    "title": "1984 Vol 5",
+    "year": 1883,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 548,
+    "title": "Anna Karenina Vol 8",
+    "year": 2011,
+    "author": "Dan Simmons",
+    "genre": "Adventure"
+  },
+  {
+    "id": 549,
+    "title": "The Great Gatsby Vol 10",
+    "year": 1803,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 550,
+    "title": "Fahrenheit 451 Vol 3",
+    "year": 1861,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 551,
+    "title": "War and Peace Vol 10",
+    "year": 1925,
+    "author": "Homer",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 552,
+    "title": "Neuromancer Vol 7",
+    "year": 1842,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 553,
+    "title": "Neuromancer Vol 3",
+    "year": 1979,
+    "author": "Jane Austen",
+    "genre": "Crime"
+  },
+  {
+    "id": 554,
+    "title": "Ulysses Vol 8",
+    "year": 1824,
+    "author": "Leo Tolstoy",
+    "genre": "Crime"
+  },
+  {
+    "id": 555,
+    "title": "Hyperion Vol 2",
+    "year": 1901,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 556,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1986,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 557,
+    "title": "Anna Karenina Vol 6",
+    "year": 1868,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 558,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1949,
+    "author": "Harper Lee",
+    "genre": "Adventure"
+  },
+  {
+    "id": 559,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1861,
+    "author": "Homer",
+    "genre": "Adventure"
+  },
+  {
+    "id": 560,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1873,
+    "author": "Leo Tolstoy",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 561,
+    "title": "Neuromancer Vol 8",
+    "year": 1943,
+    "author": "Victor Hugo",
+    "genre": "Romance"
+  },
+  {
+    "id": 562,
+    "title": "The Great Gatsby Vol 1",
+    "year": 1921,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 563,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1854,
+    "author": "Harper Lee",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 564,
+    "title": "The Brothers Karamazov Vol 7",
+    "year": 2001,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 565,
+    "title": "Neuromancer Vol 3",
+    "year": 1935,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 566,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1806,
+    "author": "George Orwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 567,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1966,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 568,
+    "title": "Ulysses Vol 6",
+    "year": 1918,
+    "author": "Frank Herbert",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 569,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1883,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 570,
+    "title": "Neuromancer Vol 9",
+    "year": 1886,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 571,
+    "title": "Dune Messiah Vol 9",
+    "year": 1992,
+    "author": "Victor Hugo",
+    "genre": "Crime"
+  },
+  {
+    "id": 572,
+    "title": "Pride and Prejudice Vol 2",
+    "year": 1870,
+    "author": "Jane Austen",
+    "genre": "Mystery"
+  },
+  {
+    "id": 573,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1922,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 574,
+    "title": "Dune Messiah Vol 5",
+    "year": 1895,
+    "author": "George R.R. Martin",
+    "genre": "Mystery"
+  },
+  {
+    "id": 575,
+    "title": "Brave New World Vol 6",
+    "year": 1946,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 576,
+    "title": "Moby Dick Vol 3",
+    "year": 1879,
+    "author": "George R.R. Martin",
+    "genre": "Mystery"
+  },
+  {
+    "id": 577,
+    "title": "Foundation's Edge Vol 1",
+    "year": 1943,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 578,
+    "title": "Moby Dick Vol 3",
+    "year": 1935,
+    "author": "Herman Melville",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 579,
+    "title": "Crime and Punishment Vol 5",
+    "year": 1837,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 580,
+    "title": "The Winds of Winter Vol 3",
+    "year": 1850,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 581,
+    "title": "The Great Gatsby Vol 10",
+    "year": 1964,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 582,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1877,
+    "author": "J.D. Salinger",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 583,
+    "title": "The Great Gatsby Vol 5",
+    "year": 1980,
+    "author": "Harper Lee",
+    "genre": "Romance"
+  },
+  {
+    "id": 584,
+    "title": "Foundation's Edge Vol 2",
+    "year": 1936,
+    "author": "Jane Austen",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 585,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1858,
+    "author": "Jane Austen",
+    "genre": "Horror"
+  },
+  {
+    "id": 586,
+    "title": "To Kill a Mockingbird Vol 2",
+    "year": 2008,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 587,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1931,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 588,
+    "title": "Brave New World Vol 6",
+    "year": 2010,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 589,
+    "title": "The Odyssey Vol 3",
+    "year": 1840,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 590,
+    "title": "Anna Karenina Vol 6",
+    "year": 1856,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 591,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1940,
+    "author": "Oscar Wilde",
+    "genre": "Thriller"
+  },
+  {
+    "id": 592,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1914,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 593,
+    "title": "The Great Gatsby Vol 9",
+    "year": 1961,
+    "author": "Leo Tolstoy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 594,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1809,
+    "author": "Victor Hugo",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 595,
+    "title": "Moby Dick Vol 1",
+    "year": 1992,
+    "author": "Victor Hugo",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 596,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1974,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 597,
+    "title": "The Picture of Dorian Gray Vol 8",
+    "year": 1980,
+    "author": "George Orwell",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 598,
+    "title": "Crime and Punishment Vol 2",
+    "year": 1859,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 599,
+    "title": "Fahrenheit 451 Vol 10",
+    "year": 1809,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 600,
+    "title": "Pride and Prejudice Vol 8",
+    "year": 1990,
+    "author": "Herman Melville",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 601,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 2025,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 602,
+    "title": "Anna Karenina Vol 6",
+    "year": 1901,
+    "author": "J.D. Salinger",
+    "genre": "Adventure"
+  },
+  {
+    "id": 603,
+    "title": "War and Peace Vol 6",
+    "year": 1867,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 604,
+    "title": "Crime and Punishment Vol 1",
+    "year": 2000,
+    "author": "Frank Herbert",
+    "genre": "Classic"
+  },
+  {
+    "id": 605,
+    "title": "1984 Vol 1",
+    "year": 1805,
+    "author": "Herman Melville",
+    "genre": "Adventure"
+  },
+  {
+    "id": 606,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1884,
+    "author": "Harper Lee",
+    "genre": "Adventure"
+  },
+  {
+    "id": 607,
+    "title": "Ulysses Vol 5",
+    "year": 1973,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 608,
+    "title": "1984 Vol 6",
+    "year": 1817,
+    "author": "Ray Bradbury",
+    "genre": "Romance"
+  },
+  {
+    "id": 609,
+    "title": "To Kill a Mockingbird Vol 9",
+    "year": 1860,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 610,
+    "title": "The Great Gatsby Vol 4",
+    "year": 1886,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 611,
+    "title": "The Brothers Karamazov Vol 9",
+    "year": 1960,
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 612,
+    "title": "Moby Dick Vol 5",
+    "year": 1901,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 613,
+    "title": "Brave New World Vol 1",
+    "year": 1848,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 614,
+    "title": "1984 Vol 1",
+    "year": 1839,
+    "author": "George Orwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 615,
+    "title": "War and Peace Vol 8",
+    "year": 1915,
+    "author": "James Joyce",
+    "genre": "Romance"
+  },
+  {
+    "id": 616,
+    "title": "Dune Messiah Vol 6",
+    "year": 2023,
+    "author": "J.D. Salinger",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 617,
+    "title": "Anna Karenina Vol 2",
+    "year": 1840,
+    "author": "James Joyce",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 618,
+    "title": "War and Peace Vol 1",
+    "year": 1895,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 619,
+    "title": "The Last Kingdom Vol 1",
+    "year": 1914,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 620,
+    "title": "Neuromancer Vol 10",
+    "year": 2023,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 621,
+    "title": "Pride and Prejudice Vol 2",
+    "year": 1874,
+    "author": "Harper Lee",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 622,
+    "title": "The Brothers Karamazov Vol 2",
+    "year": 1913,
+    "author": "George R.R. Martin",
+    "genre": "Crime"
+  },
+  {
+    "id": 623,
+    "title": "Dune Messiah Vol 4",
+    "year": 1931,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 624,
+    "title": "Brave New World Vol 9",
+    "year": 1921,
+    "author": "Ray Bradbury",
+    "genre": "Crime"
+  },
+  {
+    "id": 625,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1892,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 626,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1981,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 627,
+    "title": "Brave New World Vol 6",
+    "year": 1988,
+    "author": "George R.R. Martin",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 628,
+    "title": "The Odyssey Vol 8",
+    "year": 1920,
+    "author": "Jane Austen",
+    "genre": "Thriller"
+  },
+  {
+    "id": 629,
+    "title": "Fahrenheit 451 Vol 6",
+    "year": 1958,
+    "author": "George R.R. Martin",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 630,
+    "title": "Hyperion Vol 1",
+    "year": 1996,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 631,
+    "title": "The Great Gatsby Vol 2",
+    "year": 1843,
+    "author": "Victor Hugo",
+    "genre": "Classic"
+  },
+  {
+    "id": 632,
+    "title": "War and Peace Vol 1",
+    "year": 1992,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Adventure"
+  },
+  {
+    "id": 633,
+    "title": "Moby Dick Vol 7",
+    "year": 1896,
+    "author": "J.D. Salinger",
+    "genre": "Mystery"
+  },
+  {
+    "id": 634,
+    "title": "Neuromancer Vol 8",
+    "year": 1835,
+    "author": "Ray Bradbury",
+    "genre": "Crime"
+  },
+  {
+    "id": 635,
+    "title": "1984 Vol 8",
+    "year": 1851,
+    "author": "Frank Herbert",
+    "genre": "Horror"
+  },
+  {
+    "id": 636,
+    "title": "Brave New World Vol 9",
+    "year": 1889,
+    "author": "Frank Herbert",
+    "genre": "Classic"
+  },
+  {
+    "id": 637,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 1874,
+    "author": "Dan Simmons",
+    "genre": "Horror"
+  },
+  {
+    "id": 638,
+    "title": "Crime and Punishment Vol 4",
+    "year": 1932,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 639,
+    "title": "The Picture of Dorian Gray Vol 8",
+    "year": 1871,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 640,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1957,
+    "author": "James Joyce",
+    "genre": "Crime"
+  },
+  {
+    "id": 641,
+    "title": "The Odyssey Vol 7",
+    "year": 1914,
+    "author": "Homer",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 642,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1835,
+    "author": "George R.R. Martin",
+    "genre": "Crime"
+  },
+  {
+    "id": 643,
+    "title": "Fahrenheit 451 Vol 9",
+    "year": 1920,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 644,
+    "title": "Brave New World Vol 5",
+    "year": 1901,
+    "author": "Victor Hugo",
+    "genre": "Classic"
+  },
+  {
+    "id": 645,
+    "title": "Dune Messiah Vol 6",
+    "year": 1810,
+    "author": "J.D. Salinger",
+    "genre": "Horror"
+  },
+  {
+    "id": 646,
+    "title": "Anna Karenina Vol 1",
+    "year": 1937,
+    "author": "Bernard Cornwell",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 647,
+    "title": "War and Peace Vol 3",
+    "year": 1973,
+    "author": "George Orwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 648,
+    "title": "Fahrenheit 451 Vol 6",
+    "year": 1984,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Romance"
+  },
+  {
+    "id": 649,
+    "title": "The Last Kingdom Vol 7",
+    "year": 1845,
+    "author": "Dan Simmons",
+    "genre": "Horror"
+  },
+  {
+    "id": 650,
+    "title": "The Last Kingdom Vol 6",
+    "year": 1837,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 651,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1975,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 652,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1839,
+    "author": "Homer",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 653,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1853,
+    "author": "George Orwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 654,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 1889,
+    "author": "Homer",
+    "genre": "Adventure"
+  },
+  {
+    "id": 655,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1889,
+    "author": "Aldous Huxley",
+    "genre": "Horror"
+  },
+  {
+    "id": 656,
+    "title": "Dune Messiah Vol 10",
+    "year": 1906,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 657,
+    "title": "The Picture of Dorian Gray Vol 4",
+    "year": 1943,
+    "author": "William Gibson",
+    "genre": "Adventure"
+  },
+  {
+    "id": 658,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1890,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 659,
+    "title": "The Last Kingdom Vol 6",
+    "year": 2011,
+    "author": "Homer",
+    "genre": "Mystery"
+  },
+  {
+    "id": 660,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1806,
+    "author": "Frank Herbert",
+    "genre": "Mystery"
+  },
+  {
+    "id": 661,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1993,
+    "author": "Jane Austen",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 662,
+    "title": "Anna Karenina Vol 9",
+    "year": 1856,
+    "author": "William Gibson",
+    "genre": "Mystery"
+  },
+  {
+    "id": 663,
+    "title": "Hyperion Vol 6",
+    "year": 1891,
+    "author": "Aldous Huxley",
+    "genre": "Adventure"
+  },
+  {
+    "id": 664,
+    "title": "War and Peace Vol 9",
+    "year": 1992,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 665,
+    "title": "Hyperion Vol 7",
+    "year": 1937,
+    "author": "Victor Hugo",
+    "genre": "Mystery"
+  },
+  {
+    "id": 666,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1883,
+    "author": "Victor Hugo",
+    "genre": "Horror"
+  },
+  {
+    "id": 667,
+    "title": "Foundation's Edge Vol 2",
+    "year": 1900,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 668,
+    "title": "The Catcher in the Rye Vol 6",
+    "year": 1909,
+    "author": "Homer",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 669,
+    "title": "The Last Kingdom Vol 2",
+    "year": 2007,
+    "author": "Bernard Cornwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 670,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1982,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 671,
+    "title": "Hyperion Vol 2",
+    "year": 1946,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 672,
+    "title": "The Odyssey Vol 5",
+    "year": 1965,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 673,
+    "title": "The Last Kingdom Vol 9",
+    "year": 1880,
+    "author": "Aldous Huxley",
+    "genre": "Adventure"
+  },
+  {
+    "id": 674,
+    "title": "The Odyssey Vol 4",
+    "year": 1934,
+    "author": "Ray Bradbury",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 675,
+    "title": "1984 Vol 9",
+    "year": 1909,
+    "author": "Dan Simmons",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 676,
+    "title": "War and Peace Vol 5",
+    "year": 1809,
+    "author": "Victor Hugo",
+    "genre": "Adventure"
+  },
+  {
+    "id": 677,
+    "title": "Foundation's Edge Vol 2",
+    "year": 2019,
+    "author": "George Orwell",
+    "genre": "Thriller"
+  },
+  {
+    "id": 678,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1885,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 679,
+    "title": "Hyperion Vol 5",
+    "year": 2005,
+    "author": "Leo Tolstoy",
+    "genre": "Adventure"
+  },
+  {
+    "id": 680,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1868,
+    "author": "Isaac Asimov",
+    "genre": "Classic"
+  },
+  {
+    "id": 681,
+    "title": "Dune Messiah Vol 9",
+    "year": 1886,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 682,
+    "title": "Crime and Punishment Vol 6",
+    "year": 1909,
+    "author": "Dan Simmons",
+    "genre": "Classic"
+  },
+  {
+    "id": 683,
+    "title": "Foundation's Edge Vol 8",
+    "year": 2024,
+    "author": "Dan Simmons",
+    "genre": "Thriller"
+  },
+  {
+    "id": 684,
+    "title": "Hyperion Vol 6",
+    "year": 1974,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 685,
+    "title": "Foundation's Edge Vol 3",
+    "year": 1919,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 686,
+    "title": "Ulysses Vol 9",
+    "year": 1966,
+    "author": "J.D. Salinger",
+    "genre": "Horror"
+  },
+  {
+    "id": 687,
+    "title": "Dune Messiah Vol 9",
+    "year": 1900,
+    "author": "George Orwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 688,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1929,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 689,
+    "title": "Neuromancer Vol 1",
+    "year": 1900,
+    "author": "Homer",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 690,
+    "title": "Hyperion Vol 1",
+    "year": 1865,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 691,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1985,
+    "author": "Jane Austen",
+    "genre": "Mystery"
+  },
+  {
+    "id": 692,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1959,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 693,
+    "title": "Brave New World Vol 6",
+    "year": 1906,
+    "author": "Aldous Huxley",
+    "genre": "Thriller"
+  },
+  {
+    "id": 694,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1920,
+    "author": "James Joyce",
+    "genre": "Romance"
+  },
+  {
+    "id": 695,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1881,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 696,
+    "title": "Brave New World Vol 9",
+    "year": 1829,
+    "author": "Frank Herbert",
+    "genre": "Adventure"
+  },
+  {
+    "id": 697,
+    "title": "Brave New World Vol 9",
+    "year": 2017,
+    "author": "William Gibson",
+    "genre": "Mystery"
+  },
+  {
+    "id": 698,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1867,
+    "author": "Oscar Wilde",
+    "genre": "Classic"
+  },
+  {
+    "id": 699,
+    "title": "Foundation's Edge Vol 10",
+    "year": 1979,
+    "author": "Victor Hugo",
+    "genre": "Romance"
+  },
+  {
+    "id": 700,
+    "title": "Anna Karenina Vol 5",
+    "year": 2012,
+    "author": "Homer",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 701,
+    "title": "Foundation's Edge Vol 9",
+    "year": 1982,
+    "author": "J.D. Salinger",
+    "genre": "Adventure"
+  },
+  {
+    "id": 702,
+    "title": "The Odyssey Vol 8",
+    "year": 1931,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 703,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1841,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 704,
+    "title": "1984 Vol 3",
+    "year": 1805,
+    "author": "Jane Austen",
+    "genre": "Mystery"
+  },
+  {
+    "id": 705,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1991,
+    "author": "George R.R. Martin",
+    "genre": "Mystery"
+  },
+  {
+    "id": 706,
+    "title": "Moby Dick Vol 10",
+    "year": 1999,
+    "author": "James Joyce",
+    "genre": "Mystery"
+  },
+  {
+    "id": 707,
+    "title": "Anna Karenina Vol 10",
+    "year": 1877,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance"
+  },
+  {
+    "id": 708,
+    "title": "Hyperion Vol 9",
+    "year": 1911,
+    "author": "Isaac Asimov",
+    "genre": "Crime"
+  },
+  {
+    "id": 709,
+    "title": "The Great Gatsby Vol 2",
+    "year": 1887,
+    "author": "Herman Melville",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 710,
+    "title": "To Kill a Mockingbird Vol 6",
+    "year": 1852,
+    "author": "Frank Herbert",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 711,
+    "title": "Brave New World Vol 3",
+    "year": 1862,
+    "author": "Ray Bradbury",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 712,
+    "title": "The Catcher in the Rye Vol 6",
+    "year": 1812,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 713,
+    "title": "Crime and Punishment Vol 8",
+    "year": 1820,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 714,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1932,
+    "author": "Frank Herbert",
+    "genre": "Crime"
+  },
+  {
+    "id": 715,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1861,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 716,
+    "title": "Anna Karenina Vol 3",
+    "year": 1822,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 717,
+    "title": "The Catcher in the Rye Vol 5",
+    "year": 1823,
+    "author": "Jane Austen",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 718,
+    "title": "Foundation's Edge Vol 7",
+    "year": 1925,
+    "author": "J.D. Salinger",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 719,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1946,
+    "author": "James Joyce",
+    "genre": "Mystery"
+  },
+  {
+    "id": 720,
+    "title": "Moby Dick Vol 4",
+    "year": 1808,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 721,
+    "title": "Crime and Punishment Vol 9",
+    "year": 1874,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 722,
+    "title": "War and Peace Vol 2",
+    "year": 2004,
+    "author": "Aldous Huxley",
+    "genre": "Horror"
+  },
+  {
+    "id": 723,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1898,
+    "author": "Homer",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 724,
+    "title": "Crime and Punishment Vol 3",
+    "year": 1815,
+    "author": "Leo Tolstoy",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 725,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1915,
+    "author": "J.D. Salinger",
+    "genre": "Thriller"
+  },
+  {
+    "id": 726,
+    "title": "The Last Kingdom Vol 8",
+    "year": 1951,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 727,
+    "title": "War and Peace Vol 4",
+    "year": 2019,
+    "author": "Bernard Cornwell",
+    "genre": "Thriller"
+  },
+  {
+    "id": 728,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1952,
+    "author": "Frank Herbert",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 729,
+    "title": "The Brothers Karamazov Vol 3",
+    "year": 2002,
+    "author": "Harper Lee",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 730,
+    "title": "The Last Kingdom Vol 6",
+    "year": 1875,
+    "author": "Oscar Wilde",
+    "genre": "Thriller"
+  },
+  {
+    "id": 731,
+    "title": "Moby Dick Vol 6",
+    "year": 2003,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Adventure"
+  },
+  {
+    "id": 732,
+    "title": "Crime and Punishment Vol 1",
+    "year": 2000,
+    "author": "James Joyce",
+    "genre": "Mystery"
+  },
+  {
+    "id": 733,
+    "title": "The Picture of Dorian Gray Vol 7",
+    "year": 1924,
+    "author": "Isaac Asimov",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 734,
+    "title": "The Picture of Dorian Gray Vol 4",
+    "year": 1994,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 735,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1896,
+    "author": "Isaac Asimov",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 736,
+    "title": "Moby Dick Vol 5",
+    "year": 1956,
+    "author": "Aldous Huxley",
+    "genre": "Classic"
+  },
+  {
+    "id": 737,
+    "title": "1984 Vol 7",
+    "year": 1885,
+    "author": "George R.R. Martin",
+    "genre": "Crime"
+  },
+  {
+    "id": 738,
+    "title": "Ulysses Vol 9",
+    "year": 1959,
+    "author": "Isaac Asimov",
+    "genre": "Romance"
+  },
+  {
+    "id": 739,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1857,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 740,
+    "title": "Brave New World Vol 9",
+    "year": 1844,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 741,
+    "title": "The Last Kingdom Vol 10",
+    "year": 2018,
+    "author": "George R.R. Martin",
+    "genre": "Crime"
+  },
+  {
+    "id": 742,
+    "title": "The Last Kingdom Vol 10",
+    "year": 1805,
+    "author": "Ray Bradbury",
+    "genre": "Classic"
+  },
+  {
+    "id": 743,
+    "title": "Les Mis\u00e9rables Vol 5",
+    "year": 1807,
+    "author": "Harper Lee",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 744,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1997,
+    "author": "George R.R. Martin",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 745,
+    "title": "Fahrenheit 451 Vol 9",
+    "year": 1883,
+    "author": "Herman Melville",
+    "genre": "Adventure"
+  },
+  {
+    "id": 746,
+    "title": "Neuromancer Vol 8",
+    "year": 2014,
+    "author": "George R.R. Martin",
+    "genre": "Horror"
+  },
+  {
+    "id": 747,
+    "title": "Brave New World Vol 4",
+    "year": 1816,
+    "author": "Homer",
+    "genre": "Mystery"
+  },
+  {
+    "id": 748,
+    "title": "The Catcher in the Rye Vol 7",
+    "year": 1810,
+    "author": "Isaac Asimov",
+    "genre": "Adventure"
+  },
+  {
+    "id": 749,
+    "title": "Foundation's Edge Vol 3",
+    "year": 1860,
+    "author": "Victor Hugo",
+    "genre": "Classic"
+  },
+  {
+    "id": 750,
+    "title": "Moby Dick Vol 6",
+    "year": 1996,
+    "author": "Aldous Huxley",
+    "genre": "Adventure"
+  },
+  {
+    "id": 751,
+    "title": "The Great Gatsby Vol 3",
+    "year": 1927,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 752,
+    "title": "Ulysses Vol 4",
+    "year": 1913,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 753,
+    "title": "The Odyssey Vol 6",
+    "year": 2007,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 754,
+    "title": "Pride and Prejudice Vol 6",
+    "year": 1931,
+    "author": "Oscar Wilde",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 755,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1964,
+    "author": "Frank Herbert",
+    "genre": "Crime"
+  },
+  {
+    "id": 756,
+    "title": "The Odyssey Vol 3",
+    "year": 1842,
+    "author": "William Gibson",
+    "genre": "Romance"
+  },
+  {
+    "id": 757,
+    "title": "Hyperion Vol 10",
+    "year": 1972,
+    "author": "Bernard Cornwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 758,
+    "title": "The Last Kingdom Vol 10",
+    "year": 1935,
+    "author": "Jane Austen",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 759,
+    "title": "Fahrenheit 451 Vol 6",
+    "year": 1931,
+    "author": "William Gibson",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 760,
+    "title": "Dune Messiah Vol 3",
+    "year": 1974,
+    "author": "Ray Bradbury",
+    "genre": "Adventure"
+  },
+  {
+    "id": 761,
+    "title": "Anna Karenina Vol 1",
+    "year": 1939,
+    "author": "Herman Melville",
+    "genre": "Horror"
+  },
+  {
+    "id": 762,
+    "title": "The Odyssey Vol 7",
+    "year": 1998,
+    "author": "George Orwell",
+    "genre": "Thriller"
+  },
+  {
+    "id": 763,
+    "title": "The Last Kingdom Vol 4",
+    "year": 2007,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 764,
+    "title": "The Brothers Karamazov Vol 8",
+    "year": 1987,
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 765,
+    "title": "Crime and Punishment Vol 9",
+    "year": 1898,
+    "author": "George R.R. Martin",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 766,
+    "title": "Anna Karenina Vol 7",
+    "year": 1831,
+    "author": "Homer",
+    "genre": "Thriller"
+  },
+  {
+    "id": 767,
+    "title": "Pride and Prejudice Vol 3",
+    "year": 1803,
+    "author": "James Joyce",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 768,
+    "title": "Crime and Punishment Vol 9",
+    "year": 1870,
+    "author": "George R.R. Martin",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 769,
+    "title": "Hyperion Vol 5",
+    "year": 1861,
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 770,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1893,
+    "author": "Homer",
+    "genre": "Horror"
+  },
+  {
+    "id": 771,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1816,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 772,
+    "title": "Foundation's Edge Vol 1",
+    "year": 1857,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 773,
+    "title": "Crime and Punishment Vol 3",
+    "year": 1979,
+    "author": "George R.R. Martin",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 774,
+    "title": "Fahrenheit 451 Vol 7",
+    "year": 1856,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 775,
+    "title": "Pride and Prejudice Vol 5",
+    "year": 1853,
+    "author": "Victor Hugo",
+    "genre": "Horror"
+  },
+  {
+    "id": 776,
+    "title": "Ulysses Vol 2",
+    "year": 1930,
+    "author": "Bernard Cornwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 777,
+    "title": "Neuromancer Vol 5",
+    "year": 1904,
+    "author": "Jane Austen",
+    "genre": "Thriller"
+  },
+  {
+    "id": 778,
+    "title": "Moby Dick Vol 2",
+    "year": 1919,
+    "author": "George Orwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 779,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 2000,
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 780,
+    "title": "Neuromancer Vol 3",
+    "year": 1995,
+    "author": "George R.R. Martin",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 781,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1831,
+    "author": "Bernard Cornwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 782,
+    "title": "Anna Karenina Vol 1",
+    "year": 1911,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Romance"
+  },
+  {
+    "id": 783,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1913,
+    "author": "Dan Simmons",
+    "genre": "Horror"
+  },
+  {
+    "id": 784,
+    "title": "The Great Gatsby Vol 7",
+    "year": 1982,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 785,
+    "title": "Moby Dick Vol 5",
+    "year": 1982,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 786,
+    "title": "The Brothers Karamazov Vol 3",
+    "year": 1961,
+    "author": "Ray Bradbury",
+    "genre": "Thriller"
+  },
+  {
+    "id": 787,
+    "title": "Anna Karenina Vol 10",
+    "year": 1974,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 788,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1941,
+    "author": "Harper Lee",
+    "genre": "Adventure"
+  },
+  {
+    "id": 789,
+    "title": "Ulysses Vol 5",
+    "year": 1861,
+    "author": "Harper Lee",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 790,
+    "title": "Brave New World Vol 4",
+    "year": 2004,
+    "author": "Aldous Huxley",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 791,
+    "title": "Neuromancer Vol 3",
+    "year": 1998,
+    "author": "Ray Bradbury",
+    "genre": "Mystery"
+  },
+  {
+    "id": 792,
+    "title": "1984 Vol 7",
+    "year": 1874,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Thriller"
+  },
+  {
+    "id": 793,
+    "title": "War and Peace Vol 8",
+    "year": 1872,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance"
+  },
+  {
+    "id": 794,
+    "title": "Anna Karenina Vol 3",
+    "year": 1912,
+    "author": "Jane Austen",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 795,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1965,
+    "author": "Oscar Wilde",
+    "genre": "Mystery"
+  },
+  {
+    "id": 796,
+    "title": "Dune Messiah Vol 4",
+    "year": 1994,
+    "author": "Jane Austen",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 797,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1852,
+    "author": "Dan Simmons",
+    "genre": "Classic"
+  },
+  {
+    "id": 798,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1985,
+    "author": "George R.R. Martin",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 799,
+    "title": "Anna Karenina Vol 5",
+    "year": 1955,
+    "author": "Dan Simmons",
+    "genre": "Thriller"
+  },
+  {
+    "id": 800,
+    "title": "Anna Karenina Vol 9",
+    "year": 1856,
+    "author": "J.D. Salinger",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 801,
+    "title": "The Brothers Karamazov Vol 7",
+    "year": 1826,
+    "author": "James Joyce",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 802,
+    "title": "1984 Vol 10",
+    "year": 1973,
+    "author": "James Joyce",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 803,
+    "title": "Moby Dick Vol 5",
+    "year": 1850,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic"
+  },
+  {
+    "id": 804,
+    "title": "War and Peace Vol 10",
+    "year": 1992,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 805,
+    "title": "1984 Vol 6",
+    "year": 1844,
+    "author": "Leo Tolstoy",
+    "genre": "Adventure"
+  },
+  {
+    "id": 806,
+    "title": "Crime and Punishment Vol 7",
+    "year": 1890,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 807,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1990,
+    "author": "Herman Melville",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 808,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1819,
+    "author": "Frank Herbert",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 809,
+    "title": "Ulysses Vol 3",
+    "year": 1951,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Horror"
+  },
+  {
+    "id": 810,
+    "title": "The Great Gatsby Vol 9",
+    "year": 1863,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 811,
+    "title": "Les Mis\u00e9rables Vol 8",
+    "year": 1930,
+    "author": "Herman Melville",
+    "genre": "Romance"
+  },
+  {
+    "id": 812,
+    "title": "The Brothers Karamazov Vol 2",
+    "year": 1928,
+    "author": "George R.R. Martin",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 813,
+    "title": "1984 Vol 3",
+    "year": 1945,
+    "author": "Jane Austen",
+    "genre": "Crime"
+  },
+  {
+    "id": 814,
+    "title": "Crime and Punishment Vol 7",
+    "year": 1903,
+    "author": "George R.R. Martin",
+    "genre": "Classic"
+  },
+  {
+    "id": 815,
+    "title": "1984 Vol 7",
+    "year": 2019,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 816,
+    "title": "Crime and Punishment Vol 8",
+    "year": 2016,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 817,
+    "title": "To Kill a Mockingbird Vol 2",
+    "year": 1999,
+    "author": "J.D. Salinger",
+    "genre": "Crime"
+  },
+  {
+    "id": 818,
+    "title": "Brave New World Vol 9",
+    "year": 2007,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 819,
+    "title": "The Last Kingdom Vol 8",
+    "year": 1910,
+    "author": "William Gibson",
+    "genre": "Horror"
+  },
+  {
+    "id": 820,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1969,
+    "author": "Dan Simmons",
+    "genre": "Horror"
+  },
+  {
+    "id": 821,
+    "title": "Anna Karenina Vol 5",
+    "year": 1989,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 822,
+    "title": "Fahrenheit 451 Vol 2",
+    "year": 1864,
+    "author": "Victor Hugo",
+    "genre": "Mystery"
+  },
+  {
+    "id": 823,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 1944,
+    "author": "Oscar Wilde",
+    "genre": "Mystery"
+  },
+  {
+    "id": 824,
+    "title": "The Catcher in the Rye Vol 6",
+    "year": 1966,
+    "author": "J.D. Salinger",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 825,
+    "title": "Foundation's Edge Vol 6",
+    "year": 1841,
+    "author": "Oscar Wilde",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 826,
+    "title": "The Last Kingdom Vol 5",
+    "year": 1916,
+    "author": "Dan Simmons",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 827,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1822,
+    "author": "Victor Hugo",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 828,
+    "title": "To Kill a Mockingbird Vol 7",
+    "year": 1815,
+    "author": "Frank Herbert",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 829,
+    "title": "Dune Messiah Vol 8",
+    "year": 2004,
+    "author": "Herman Melville",
+    "genre": "Classic"
+  },
+  {
+    "id": 830,
+    "title": "Neuromancer Vol 9",
+    "year": 1804,
+    "author": "Victor Hugo",
+    "genre": "Horror"
+  },
+  {
+    "id": 831,
+    "title": "Dune Messiah Vol 10",
+    "year": 1801,
+    "author": "Ray Bradbury",
+    "genre": "Horror"
+  },
+  {
+    "id": 832,
+    "title": "The Winds of Winter Vol 3",
+    "year": 1971,
+    "author": "Victor Hugo",
+    "genre": "Mystery"
+  },
+  {
+    "id": 833,
+    "title": "Fahrenheit 451 Vol 6",
+    "year": 1942,
+    "author": "Dan Simmons",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 834,
+    "title": "The Winds of Winter Vol 6",
+    "year": 1926,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 835,
+    "title": "Ulysses Vol 10",
+    "year": 1959,
+    "author": "Bernard Cornwell",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 836,
+    "title": "Dune Messiah Vol 8",
+    "year": 1972,
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "id": 837,
+    "title": "The Great Gatsby Vol 2",
+    "year": 1873,
+    "author": "George Orwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 838,
+    "title": "The Odyssey Vol 1",
+    "year": 2007,
+    "author": "Frank Herbert",
+    "genre": "Crime"
+  },
+  {
+    "id": 839,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1992,
+    "author": "Homer",
+    "genre": "Crime"
+  },
+  {
+    "id": 840,
+    "title": "Foundation's Edge Vol 1",
+    "year": 1862,
+    "author": "Bernard Cornwell",
+    "genre": "Thriller"
+  },
+  {
+    "id": 841,
+    "title": "War and Peace Vol 9",
+    "year": 2007,
+    "author": "Bernard Cornwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 842,
+    "title": "Hyperion Vol 4",
+    "year": 2023,
+    "author": "Bernard Cornwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 843,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1942,
+    "author": "Leo Tolstoy",
+    "genre": "Adventure"
+  },
+  {
+    "id": 844,
+    "title": "Les Mis\u00e9rables Vol 10",
+    "year": 1938,
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 845,
+    "title": "The Picture of Dorian Gray Vol 1",
+    "year": 1972,
+    "author": "Victor Hugo",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 846,
+    "title": "Pride and Prejudice Vol 5",
+    "year": 1848,
+    "author": "George Orwell",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 847,
+    "title": "War and Peace Vol 4",
+    "year": 1840,
+    "author": "Harper Lee",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 848,
+    "title": "War and Peace Vol 9",
+    "year": 1949,
+    "author": "Dan Simmons",
+    "genre": "Romance"
+  },
+  {
+    "id": 849,
+    "title": "Moby Dick Vol 8",
+    "year": 1997,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 850,
+    "title": "Pride and Prejudice Vol 8",
+    "year": 1837,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 851,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1997,
+    "author": "William Gibson",
+    "genre": "Classic"
+  },
+  {
+    "id": 852,
+    "title": "Les Mis\u00e9rables Vol 3",
+    "year": 1923,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 853,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1899,
+    "author": "George R.R. Martin",
+    "genre": "Thriller"
+  },
+  {
+    "id": 854,
+    "title": "The Picture of Dorian Gray Vol 5",
+    "year": 1909,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 855,
+    "title": "The Brothers Karamazov Vol 1",
+    "year": 2004,
+    "author": "Ray Bradbury",
+    "genre": "Romance"
+  },
+  {
+    "id": 856,
+    "title": "War and Peace Vol 10",
+    "year": 1835,
+    "author": "Bernard Cornwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 857,
+    "title": "The Great Gatsby Vol 6",
+    "year": 1864,
+    "author": "James Joyce",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 858,
+    "title": "War and Peace Vol 8",
+    "year": 1861,
+    "author": "Herman Melville",
+    "genre": "Adventure"
+  },
+  {
+    "id": 859,
+    "title": "Brave New World Vol 10",
+    "year": 2003,
+    "author": "Herman Melville",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 860,
+    "title": "War and Peace Vol 2",
+    "year": 1814,
+    "author": "George R.R. Martin",
+    "genre": "Horror"
+  },
+  {
+    "id": 861,
+    "title": "Hyperion Vol 8",
+    "year": 1858,
+    "author": "Herman Melville",
+    "genre": "Romance"
+  },
+  {
+    "id": 862,
+    "title": "Hyperion Vol 5",
+    "year": 1969,
+    "author": "Leo Tolstoy",
+    "genre": "Thriller"
+  },
+  {
+    "id": 863,
+    "title": "The Brothers Karamazov Vol 7",
+    "year": 1969,
+    "author": "J.D. Salinger",
+    "genre": "Horror"
+  },
+  {
+    "id": 864,
+    "title": "War and Peace Vol 1",
+    "year": 1821,
+    "author": "Ray Bradbury",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 865,
+    "title": "Hyperion Vol 1",
+    "year": 1861,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 866,
+    "title": "Ulysses Vol 5",
+    "year": 1845,
+    "author": "Victor Hugo",
+    "genre": "Horror"
+  },
+  {
+    "id": 867,
+    "title": "Ulysses Vol 4",
+    "year": 1936,
+    "author": "George Orwell",
+    "genre": "Crime"
+  },
+  {
+    "id": 868,
+    "title": "Fahrenheit 451 Vol 9",
+    "year": 1960,
+    "author": "Leo Tolstoy",
+    "genre": "Horror"
+  },
+  {
+    "id": 869,
+    "title": "The Last Kingdom Vol 10",
+    "year": 1969,
+    "author": "Jane Austen",
+    "genre": "Thriller"
+  },
+  {
+    "id": 870,
+    "title": "Les Mis\u00e9rables Vol 5",
+    "year": 1995,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Adventure"
+  },
+  {
+    "id": 871,
+    "title": "Dune Messiah Vol 10",
+    "year": 1908,
+    "author": "Dan Simmons",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 872,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1824,
+    "author": "Jane Austen",
+    "genre": "Crime"
+  },
+  {
+    "id": 873,
+    "title": "The Odyssey Vol 1",
+    "year": 1891,
+    "author": "Dan Simmons",
+    "genre": "Mystery"
+  },
+  {
+    "id": 874,
+    "title": "Ulysses Vol 10",
+    "year": 1986,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 875,
+    "title": "Hyperion Vol 6",
+    "year": 2007,
+    "author": "Homer",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 876,
+    "title": "Ulysses Vol 2",
+    "year": 1890,
+    "author": "Frank Herbert",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 877,
+    "title": "Moby Dick Vol 8",
+    "year": 1805,
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 878,
+    "title": "Foundation's Edge Vol 6",
+    "year": 1813,
+    "author": "William Gibson",
+    "genre": "Classic"
+  },
+  {
+    "id": 879,
+    "title": "The Picture of Dorian Gray Vol 6",
+    "year": 2018,
+    "author": "William Gibson",
+    "genre": "Thriller"
+  },
+  {
+    "id": 880,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1806,
+    "author": "George R.R. Martin",
+    "genre": "Adventure"
+  },
+  {
+    "id": 881,
+    "title": "Foundation's Edge Vol 2",
+    "year": 1924,
+    "author": "Frank Herbert",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 882,
+    "title": "Les Mis\u00e9rables Vol 1",
+    "year": 1853,
+    "author": "William Gibson",
+    "genre": "Adventure"
+  },
+  {
+    "id": 883,
+    "title": "The Last Kingdom Vol 6",
+    "year": 1897,
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 884,
+    "title": "The Great Gatsby Vol 9",
+    "year": 1810,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 885,
+    "title": "The Catcher in the Rye Vol 9",
+    "year": 1974,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 886,
+    "title": "Foundation's Edge Vol 8",
+    "year": 1927,
+    "author": "Frank Herbert",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 887,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 2001,
+    "author": "Leo Tolstoy",
+    "genre": "Crime"
+  },
+  {
+    "id": 888,
+    "title": "The Odyssey Vol 5",
+    "year": 1891,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 889,
+    "title": "Ulysses Vol 4",
+    "year": 1909,
+    "author": "Harper Lee",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 890,
+    "title": "The Catcher in the Rye Vol 8",
+    "year": 1902,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 891,
+    "title": "Brave New World Vol 3",
+    "year": 1802,
+    "author": "Herman Melville",
+    "genre": "Horror"
+  },
+  {
+    "id": 892,
+    "title": "Les Mis\u00e9rables Vol 7",
+    "year": 2023,
+    "author": "Oscar Wilde",
+    "genre": "Crime"
+  },
+  {
+    "id": 893,
+    "title": "Moby Dick Vol 2",
+    "year": 1981,
+    "author": "Isaac Asimov",
+    "genre": "Crime"
+  },
+  {
+    "id": 894,
+    "title": "1984 Vol 4",
+    "year": 1857,
+    "author": "Harper Lee",
+    "genre": "Thriller"
+  },
+  {
+    "id": 895,
+    "title": "Hyperion Vol 4",
+    "year": 1906,
+    "author": "Dan Simmons",
+    "genre": "Mystery"
+  },
+  {
+    "id": 896,
+    "title": "Dune Messiah Vol 1",
+    "year": 1872,
+    "author": "Ray Bradbury",
+    "genre": "Romance"
+  },
+  {
+    "id": 897,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1994,
+    "author": "James Joyce",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 898,
+    "title": "Hyperion Vol 3",
+    "year": 1966,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 899,
+    "title": "Pride and Prejudice Vol 9",
+    "year": 1849,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Mystery"
+  },
+  {
+    "id": 900,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1951,
+    "author": "Homer",
+    "genre": "Romance"
+  },
+  {
+    "id": 901,
+    "title": "Fahrenheit 451 Vol 4",
+    "year": 1972,
+    "author": "Aldous Huxley",
+    "genre": "Classic"
+  },
+  {
+    "id": 902,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1855,
+    "author": "James Joyce",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 903,
+    "title": "Foundation's Edge Vol 3",
+    "year": 1902,
+    "author": "Leo Tolstoy",
+    "genre": "Adventure"
+  },
+  {
+    "id": 904,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1857,
+    "author": "Aldous Huxley",
+    "genre": "Mystery"
+  },
+  {
+    "id": 905,
+    "title": "Foundation's Edge Vol 4",
+    "year": 1857,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 906,
+    "title": "The Winds of Winter Vol 1",
+    "year": 1951,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 907,
+    "title": "Foundation's Edge Vol 1",
+    "year": 1898,
+    "author": "J.D. Salinger",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 908,
+    "title": "Crime and Punishment Vol 5",
+    "year": 1880,
+    "author": "George Orwell",
+    "genre": "Romance"
+  },
+  {
+    "id": 909,
+    "title": "Crime and Punishment Vol 3",
+    "year": 1894,
+    "author": "George Orwell",
+    "genre": "Horror"
+  },
+  {
+    "id": 910,
+    "title": "Brave New World Vol 4",
+    "year": 1870,
+    "author": "George Orwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 911,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1851,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 912,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1808,
+    "author": "Homer",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 913,
+    "title": "Crime and Punishment Vol 6",
+    "year": 1816,
+    "author": "Jane Austen",
+    "genre": "Romance"
+  },
+  {
+    "id": 914,
+    "title": "Neuromancer Vol 10",
+    "year": 2023,
+    "author": "George Orwell",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 915,
+    "title": "The Great Gatsby Vol 7",
+    "year": 1955,
+    "author": "Jane Austen",
+    "genre": "Horror"
+  },
+  {
+    "id": 916,
+    "title": "The Odyssey Vol 3",
+    "year": 1874,
+    "author": "J.D. Salinger",
+    "genre": "Romance"
+  },
+  {
+    "id": 917,
+    "title": "Crime and Punishment Vol 4",
+    "year": 1974,
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 918,
+    "title": "War and Peace Vol 7",
+    "year": 1871,
+    "author": "J.D. Salinger",
+    "genre": "Classic"
+  },
+  {
+    "id": 919,
+    "title": "Fahrenheit 451 Vol 2",
+    "year": 1802,
+    "author": "George Orwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 920,
+    "title": "Moby Dick Vol 10",
+    "year": 1958,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 921,
+    "title": "Anna Karenina Vol 8",
+    "year": 1830,
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 922,
+    "title": "War and Peace Vol 2",
+    "year": 1919,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic"
+  },
+  {
+    "id": 923,
+    "title": "The Catcher in the Rye Vol 3",
+    "year": 1831,
+    "author": "Isaac Asimov",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 924,
+    "title": "Moby Dick Vol 8",
+    "year": 1912,
+    "author": "Aldous Huxley",
+    "genre": "Classic"
+  },
+  {
+    "id": 925,
+    "title": "Moby Dick Vol 9",
+    "year": 1969,
+    "author": "Bernard Cornwell",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 926,
+    "title": "War and Peace Vol 6",
+    "year": 1946,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 927,
+    "title": "1984 Vol 4",
+    "year": 1803,
+    "author": "Leo Tolstoy",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 928,
+    "title": "Moby Dick Vol 8",
+    "year": 1874,
+    "author": "Herman Melville",
+    "genre": "Horror"
+  },
+  {
+    "id": 929,
+    "title": "Anna Karenina Vol 4",
+    "year": 1855,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 930,
+    "title": "The Odyssey Vol 3",
+    "year": 1912,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 931,
+    "title": "Dune Messiah Vol 9",
+    "year": 1865,
+    "author": "Isaac Asimov",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 932,
+    "title": "Ulysses Vol 1",
+    "year": 1990,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 933,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 2005,
+    "author": "Harper Lee",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 934,
+    "title": "The Catcher in the Rye Vol 1",
+    "year": 1971,
+    "author": "Aldous Huxley",
+    "genre": "Mystery"
+  },
+  {
+    "id": 935,
+    "title": "Anna Karenina Vol 4",
+    "year": 1994,
+    "author": "William Gibson",
+    "genre": "Crime"
+  },
+  {
+    "id": 936,
+    "title": "The Catcher in the Rye Vol 4",
+    "year": 1844,
+    "author": "Homer",
+    "genre": "Thriller"
+  },
+  {
+    "id": 937,
+    "title": "To Kill a Mockingbird Vol 8",
+    "year": 1880,
+    "author": "George R.R. Martin",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 938,
+    "title": "Ulysses Vol 2",
+    "year": 1950,
+    "author": "Isaac Asimov",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 939,
+    "title": "Ulysses Vol 9",
+    "year": 1932,
+    "author": "Homer",
+    "genre": "Thriller"
+  },
+  {
+    "id": 940,
+    "title": "Moby Dick Vol 4",
+    "year": 1956,
+    "author": "Bernard Cornwell",
+    "genre": "Classic"
+  },
+  {
+    "id": 941,
+    "title": "Neuromancer Vol 4",
+    "year": 1924,
+    "author": "Isaac Asimov",
+    "genre": "Crime"
+  },
+  {
+    "id": 942,
+    "title": "The Picture of Dorian Gray Vol 3",
+    "year": 1976,
+    "author": "Oscar Wilde",
+    "genre": "Adventure"
+  },
+  {
+    "id": 943,
+    "title": "Brave New World Vol 9",
+    "year": 1830,
+    "author": "Leo Tolstoy",
+    "genre": "Mystery"
+  },
+  {
+    "id": 944,
+    "title": "Ulysses Vol 10",
+    "year": 2017,
+    "author": "James Joyce",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 945,
+    "title": "Hyperion Vol 10",
+    "year": 1835,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Crime"
+  },
+  {
+    "id": 946,
+    "title": "The Odyssey Vol 7",
+    "year": 2024,
+    "author": "Oscar Wilde",
+    "genre": "Horror"
+  },
+  {
+    "id": 947,
+    "title": "Crime and Punishment Vol 9",
+    "year": 1990,
+    "author": "George Orwell",
+    "genre": "Adventure"
+  },
+  {
+    "id": 948,
+    "title": "The Picture of Dorian Gray Vol 10",
+    "year": 1997,
+    "author": "Frank Herbert",
+    "genre": "Horror"
+  },
+  {
+    "id": 949,
+    "title": "The Winds of Winter Vol 5",
+    "year": 1984,
+    "author": "Bernard Cornwell",
+    "genre": "Mystery"
+  },
+  {
+    "id": 950,
+    "title": "The Picture of Dorian Gray Vol 9",
+    "year": 1932,
+    "author": "Oscar Wilde",
+    "genre": "Romance"
+  },
+  {
+    "id": 951,
+    "title": "Ulysses Vol 1",
+    "year": 2020,
+    "author": "Victor Hugo",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 952,
+    "title": "Anna Karenina Vol 10",
+    "year": 1837,
+    "author": "Jane Austen",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 953,
+    "title": "Neuromancer Vol 5",
+    "year": 2015,
+    "author": "William Gibson",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 954,
+    "title": "Dune Messiah Vol 3",
+    "year": 1896,
+    "author": "William Gibson",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 955,
+    "title": "Ulysses Vol 2",
+    "year": 1952,
+    "author": "Herman Melville",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 956,
+    "title": "To Kill a Mockingbird Vol 10",
+    "year": 1953,
+    "author": "Herman Melville",
+    "genre": "Mystery"
+  },
+  {
+    "id": 957,
+    "title": "Foundation's Edge Vol 2",
+    "year": 1832,
+    "author": "Frank Herbert",
+    "genre": "Mystery"
+  },
+  {
+    "id": 958,
+    "title": "To Kill a Mockingbird Vol 1",
+    "year": 1904,
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic"
+  },
+  {
+    "id": 959,
+    "title": "Fahrenheit 451 Vol 8",
+    "year": 1883,
+    "author": "James Joyce",
+    "genre": "Classic"
+  },
+  {
+    "id": 960,
+    "title": "The Last Kingdom Vol 3",
+    "year": 1818,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 961,
+    "title": "Ulysses Vol 2",
+    "year": 1839,
+    "author": "Isaac Asimov",
+    "genre": "Thriller"
+  },
+  {
+    "id": 962,
+    "title": "Ulysses Vol 8",
+    "year": 1977,
+    "author": "Oscar Wilde",
+    "genre": "Adventure"
+  },
+  {
+    "id": 963,
+    "title": "The Odyssey Vol 4",
+    "year": 1853,
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 964,
+    "title": "Fahrenheit 451 Vol 3",
+    "year": 1955,
+    "author": "Oscar Wilde",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 965,
+    "title": "Moby Dick Vol 8",
+    "year": 1869,
+    "author": "Frank Herbert",
+    "genre": "Romance"
+  },
+  {
+    "id": 966,
+    "title": "Brave New World Vol 3",
+    "year": 1865,
+    "author": "Harper Lee",
+    "genre": "Horror"
+  },
+  {
+    "id": 967,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1858,
+    "author": "Isaac Asimov",
+    "genre": "Mystery"
+  },
+  {
+    "id": 968,
+    "title": "Brave New World Vol 4",
+    "year": 1907,
+    "author": "Frank Herbert",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 969,
+    "title": "Les Mis\u00e9rables Vol 4",
+    "year": 1927,
+    "author": "Dan Simmons",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 970,
+    "title": "Crime and Punishment Vol 9",
+    "year": 1977,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Crime"
+  },
+  {
+    "id": 971,
+    "title": "War and Peace Vol 1",
+    "year": 1867,
+    "author": "George R.R. Martin",
+    "genre": "Adventure"
+  },
+  {
+    "id": 972,
+    "title": "1984 Vol 3",
+    "year": 1879,
+    "author": "Ray Bradbury",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 973,
+    "title": "The Last Kingdom Vol 2",
+    "year": 1896,
+    "author": "Herman Melville",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 974,
+    "title": "The Great Gatsby Vol 1",
+    "year": 1814,
+    "author": "J.D. Salinger",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 975,
+    "title": "Dune Messiah Vol 8",
+    "year": 1827,
+    "author": "Herman Melville",
+    "genre": "Crime"
+  },
+  {
+    "id": 976,
+    "title": "The Picture of Dorian Gray Vol 2",
+    "year": 1836,
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 977,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1873,
+    "author": "Aldous Huxley",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 978,
+    "title": "1984 Vol 4",
+    "year": 1874,
+    "author": "Harper Lee",
+    "genre": "Mystery"
+  },
+  {
+    "id": 979,
+    "title": "Hyperion Vol 9",
+    "year": 1952,
+    "author": "James Joyce",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 980,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1925,
+    "author": "Dan Simmons",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 981,
+    "title": "The Picture of Dorian Gray Vol 4",
+    "year": 1956,
+    "author": "Herman Melville",
+    "genre": "Thriller"
+  },
+  {
+    "id": 982,
+    "title": "Pride and Prejudice Vol 7",
+    "year": 1897,
+    "author": "Frank Herbert",
+    "genre": "Mystery"
+  },
+  {
+    "id": 983,
+    "title": "The Winds of Winter Vol 10",
+    "year": 1818,
+    "author": "Harper Lee",
+    "genre": "Thriller"
+  },
+  {
+    "id": 984,
+    "title": "Hyperion Vol 2",
+    "year": 2024,
+    "author": "George R.R. Martin",
+    "genre": "Romance"
+  },
+  {
+    "id": 985,
+    "title": "To Kill a Mockingbird Vol 3",
+    "year": 1888,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 986,
+    "title": "Fahrenheit 451 Vol 3",
+    "year": 1982,
+    "author": "James Joyce",
+    "genre": "Horror"
+  },
+  {
+    "id": 987,
+    "title": "The Picture of Dorian Gray Vol 6",
+    "year": 1802,
+    "author": "Isaac Asimov",
+    "genre": "Romance"
+  },
+  {
+    "id": 988,
+    "title": "The Winds of Winter Vol 7",
+    "year": 1872,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 989,
+    "title": "The Winds of Winter Vol 4",
+    "year": 1994,
+    "author": "Ray Bradbury",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 990,
+    "title": "The Winds of Winter Vol 8",
+    "year": 1875,
+    "author": "James Joyce",
+    "genre": "Horror"
+  },
+  {
+    "id": 991,
+    "title": "Pride and Prejudice Vol 4",
+    "year": 2005,
+    "author": "Isaac Asimov",
+    "genre": "Horror"
+  },
+  {
+    "id": 992,
+    "title": "Fahrenheit 451 Vol 3",
+    "year": 1846,
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance"
+  },
+  {
+    "id": 993,
+    "title": "The Odyssey Vol 5",
+    "year": 1946,
+    "author": "Harper Lee",
+    "genre": "Crime"
+  },
+  {
+    "id": 994,
+    "title": "Neuromancer Vol 5",
+    "year": 1854,
+    "author": "Oscar Wilde",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 995,
+    "title": "Pride and Prejudice Vol 1",
+    "year": 1808,
+    "author": "Frank Herbert",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 996,
+    "title": "The Great Gatsby Vol 7",
+    "year": 1949,
+    "author": "Victor Hugo",
+    "genre": "Classic"
+  },
+  {
+    "id": 997,
+    "title": "To Kill a Mockingbird Vol 5",
+    "year": 1950,
+    "author": "Victor Hugo",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 998,
+    "title": "The Picture of Dorian Gray Vol 6",
+    "year": 1853,
+    "author": "Leo Tolstoy",
+    "genre": "Classic"
+  },
+  {
+    "id": 999,
+    "title": "Les Mis\u00e9rables Vol 9",
+    "year": 1839,
+    "author": "J.D. Salinger",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 1000,
+    "title": "Ulysses Vol 3",
+    "year": 1921,
+    "author": "Aldous Huxley",
+    "genre": "Fantasy"
+  }
+]

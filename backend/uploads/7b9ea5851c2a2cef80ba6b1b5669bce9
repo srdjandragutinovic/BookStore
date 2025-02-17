@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Hobbits",
+    "year": 1937,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Alchemists",
+    "year": 1988,
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "title": "The Da Vinci Codes",
+    "year": 2003,
+    "author": "Dan Brown",
+    "genre": "Thriller"
+  },
+  {
+    "title": "The Roads",
+    "year": 2006,
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "The Girl with the Dragon Tattooas",
+    "year": 2005,
+    "author": "Stieg Larsson",
+    "genre": "Crime"
+  }
+  {
+    "title": "The Hobbitas",
+    "year": 1937,
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Alchemistas",
+    "year": 1988,
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "title": "The Da Vinci Codeas",
+    "year": 2003,
+    "author": "Dan Brown",
+    "genre": "Thriller"
+  },
+  {
+    "title": "The Roadas",
+    "year": 2006,
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoodsa",
+    "year": 2005,
+    "author": "Stieg Larsson",
+    "genre": "Crime"
+  }
+]
